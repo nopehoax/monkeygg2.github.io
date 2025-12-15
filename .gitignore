@@ -2,3 +2,6 @@ node_modules
 
 .stfolder/
 *.bak
+
+# local config backups
+config.jsonc.bak-*
