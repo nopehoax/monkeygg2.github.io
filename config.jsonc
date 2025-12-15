@@ -1,3962 +1,4039 @@
-/*
-    Configuration file for entire site.
-
-    Currently supports Games, Proxy, Themes (coming soon)
-*/
 {
-    "games": {
-        "10 Minutes Till Dawn": {
-            "path": "10-minutes-till-dawn",
-            "aliases": [],
-            "categories": []
-        },
-        "1010 Color Match": {
-            "path": "1010-color-match",
-            "aliases": [],
-            "categories": []
-        },
-        "18 Wheeler Cargo Simulator": {
-            "path": "18-wheeler-cargo-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "2048": {
-            "path": "2048",
-            "aliases": [],
-            "categories": []
-        },
-        "3D Bowling": {
-            "path": "3d-bowling",
-            "aliases": [],
-            "categories": []
-        },
-        "3D Free Kick": {
-            "path": "3d-free-kick",
-            "aliases": [],
-            "categories": []
-        },
-        "X Trial Racing": {
-            "path": "x-trial-racing",
-            "aliases": [],
-            "categories": []
-        },
-        "3 Pandas In Japan": {
-            "path": "3-pandas-in-japan",
-            "aliases": [],
-            "categories": []
-        },
-        "4X4 Drive Offroad": {
-            "path": "4X4-drive-offroad",
-            "aliases": [],
-            "categories": []
-        },
-        "99 Balls": {
-            "path": "99-balls",
-            "aliases": [],
-            "categories": []
-        },
-        "Abandoned": {
-            "path": "abandoned",
-            "aliases": [],
-            "categories": []
-        },
-        "Abandoned 2": {
-            "path": "abandoned-2",
-            "aliases": [],
-            "categories": []
-        },
-        "A Dance Of Fire And Ice": {
-            "path": "a-dance-of-fire-and-ice",
-            "aliases": [],
-            "categories": []
-        },
-        "A Dark Room": {
-            "path": "a-dark-room",
-            "aliases": [],
-            "categories": []
-        },
-        "Achievement-Unlocked": {
-            "path": "achievement-unlocked",
-            "aliases": [],
-            "categories": []
-        },
-        "Adam And Eve 5 Part 2": {
-            "path": "adam-and-eve-5-part-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Adam And Eve 5 Part One": {
-            "path": "adam-and-eve-5-part-one",
-            "aliases": [],
-            "categories": []
-        },
-        "Adam And Eve 6": {
-            "path": "adam-and-eve-6",
-            "aliases": [],
-            "categories": []
-        },
-        "Adam And Eve 7": {
-            "path": "adam-and-eve-7",
-            "aliases": [],
-            "categories": []
-        },
-        "Adventure Drivers": {
-            "path": "adventure-drivers",
-            "aliases": [],
-            "categories": []
-        },
-        "Agar": {
-            "path": "agar",
-            "aliases": [],
-            "categories": []
-        },
-        "Age Of War": {
-            "path": "age-of-war",
-            "aliases": [],
-            "categories": []
-        },
-        "Ages Of Conflict": {
-            "path": "ages-of-conflict",
-            "aliases": [],
-            "categories": []
-        },
-        "Aground": {
-            "path": "aground",
-            "aliases": [],
-            "categories": []
-        },
-        "A Little To The Left": {
-            "path": "ma",
-            "aliases": [],
-            "categories": []
-        },
-        "Alien Hominid": {
-            "path": "alien-hominid",
-            "aliases": [],
-            "categories": []
-        },
-        "Amidst The Sky": {
-            "path": "amidst-the-sky",
-            "aliases": [],
-            "categories": []
-        },
-        "Amo Gus Io": {
-            "path": "amogus-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Among Us": {
-            "path": "among-us",
-            "aliases": [],
-            "categories": []
-        },
-        "Amplify Launcher": {
-            "path": "ampler-launcher",
-            "aliases": [],
-            "categories": []
-        },
-        "Angry Sharks": {
-            "path": "angry-sharks",
-            "aliases": [],
-            "categories": []
-        },
-        "Angrybirds": {
-            "path": "angrybirds",
-            "aliases": [],
-            "categories": []
-        },
-        "Angry Gran Run": {
-            "path": "angry-gran-run",
-            "aliases": [],
-            "categories": []
-        },
-        "Another Gentlemans Adventure": {
-            "path": "another-gentlemans-adventure",
-            "aliases": [],
-            "categories": []
-        },
-        "Aquapark Io": {
-            "path": "aquapark-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Archery World Tour": {
-            "path": "archery-world-tour",
-            "aliases": [],
-            "categories": []
-        },
-        "Arcane-Archer": {
-            "path": "arcane-archer",
-            "aliases": [],
-            "categories": []
-        },
-        "Arras": {
-            "path": "arras",
-            "aliases": [],
-            "categories": []
-        },
-        "Aspiring-Artist": {
-            "path": "aspiring-artist",
-            "aliases": [],
-            "categories": []
-        },
-        "Astray": {
-            "path": "astray",
-            "aliases": [],
-            "categories": []
-        },
-        "Awesome-Tanks": {
-            "path": "awesome-tanks",
-            "aliases": [],
-            "categories": []
-        },
-        "Awesome-Tanks-2": {
-            "path": "awesome-tanks-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Babel-Tower": {
-            "path": "babel-tower",
-            "aliases": [],
-            "categories": []
-        },
-        "Backflipper": {
-            "path": "backflipper",
-            "aliases": [],
-            "categories": []
-        },
-        "Backrooms": {
-            "path": "backrooms",
-            "aliases": [],
-            "categories": []
-        },
-        "Backrooms-2D": {
-            "path": "backrooms-2d",
-            "aliases": [],
-            "categories": []
-        },
-        "Bacon-May-Die": {
-            "path": "bacon-may-die",
-            "aliases": [],
-            "categories": []
-        },
-        "Bad-Egg-Io": {
-            "path": "bad-egg-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Bad Ice Cream": {
-            "path": "bad-ice-cream",
-            "aliases": [],
-            "categories": []
-        },
-        "Bad Ice Cream 2": {
-            "path": "bad-ice-cream-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Bad Ice Cream 3": {
-            "path": "bad-ice-cream-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Baldis Basics": {
-            "path": "baldis-basics",
-            "aliases": [],
-            "categories": []
-        },
-        "Baldis Basics Field Trip": {
-            "path": "baldis-basics-field-trip",
-            "aliases": [],
-            "categories": []
-        },
-        "Ballistic": {
-            "path": "ballistic",
-            "aliases": [],
-            "categories": []
-        },
-        "Ball Sort Halloween": {
-            "path": "ball-sort-halloween",
-            "aliases": [],
-            "categories": []
-        },
-        "Ball Sort Soccer": {
-            "path": "ball-sort-soccer",
-            "aliases": [],
-            "categories": []
-        },
-        "Basket & Ball": {
-            "path": "basket-and-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Basketball Legends": {
-            "path": "basketball-legends",
-            "aliases": [],
-            "categories": []
-        },
-        "Basketball Stars": {
-            "path": "basketball-stars",
-            "aliases": [],
-            "categories": []
-        },
-        "Basketbros Io": {
-            "path": "basketbros-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Basket Random": {
-            "path": "basket-random",
-            "aliases": [],
-            "categories": []
-        },
-        "Battledudes Io": {
-            "path": "battledudes-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Betrayal Io": {
-            "path": "betrayal-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Big Tower Tiny Square": {
-            "path": "big-tower-tiny-square",
-            "aliases": [],
-            "categories": []
-        },
-        "Biker Street": {
-            "path": "biker-street",
-            "aliases": [],
-            "categories": []
-        },
-        "Bite": {
-            "path": "bite",
-            "aliases": [],
-            "categories": []
-        },
-        "Bit Life": {
-            "path": "bit-life",
-            "aliases": [],
-            "categories": []
-        },
-        "Blockblast": {
-            "path": "blockblast",
-            "aliases": [],
-            "categories": []
-        },
-        "Blocky-Snakes": {
-            "path": "blocky-snakes",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloonstd": {
-            "path": "bloonstd",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloonstd2": {
-            "path": "bloonstd2",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloonstd3": {
-            "path": "bloonstd3",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloonstd4": {
-            "path": "bloonstd4",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloxorz": {
-            "path": "bloxorz",
-            "aliases": [],
-            "categories": []
-        },
-        "Bloomgi Bloom": {
-            "path": "bloomgi-bloom",
-            "aliases": [],
-            "categories": []
-        },
-        "Blueblim-Bloom": {
-            "path": "blumgi-bloom",
-            "aliases": [],
-            "categories": []
-        },
-        "Blumgi Rocket": {
-            "path": "blumgi-rocket",
-            "aliases": [],
-            "categories": []
-        },
-        "Blumgi Slime": {
-            "path": "blumgi-slime",
-            "aliases": [],
-            "categories": []
-        },
-        "Blockpost": {
-            "path": "blockpost",
-            "aliases": [],
-            "categories": []
-        },
-        "Block-Tanks": {
-            "path": "block-tanks",
-            "aliases": [],
-            "categories": []
-        },
-        "Block-The-Pig": {
-            "path": "block-the-pig",
-            "aliases": [],
-            "categories": []
-        },
-        "Block World": {
-            "path": "block-world",
-            "aliases": [],
-            "categories": []
-        },
-        "Bounceback": {
-            "path": "bounceback",
-            "aliases": [],
-            "categories": []
-        },
-        "Bowmasters": {
-            "path": "bowmasters",
-            "aliases": [],
-            "categories": []
-        },
-        "Boxing-Physics 2": {
-            "path": "boxing-physics-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Boxing Random": {
-            "path": "boxing-random",
-            "aliases": [],
-            "categories": []
-        },
-        "Braains Io": {
-            "path": "braains-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Brawlstars": {
-            "path": "brawlstars",
-            "aliases": [],
-            "categories": []
-        },
-        "Brawl Stars Project Laser": {
-            "path": "brawl-stars-project-laser",
-            "aliases": [],
-            "categories": []
-        },
-        "Breaking the Bank": {
-            "path": "breaking-the-bank",
-            "aliases": [],
-            "categories": []
-        },
-        "Breakingthebank": {
-            "path": "breakingthebank",
-            "aliases": [],
-            "categories": []
-        },
-        "Breaklock": {
-            "path": "breaklock",
-            "aliases": [],
-            "categories": []
-        },
-        "Browserfps Com": {
-            "path": "browserfps-com",
-            "aliases": [],
-            "categories": []
-        },
-        "Btd5": {
-            "path": "btd5",
-            "aliases": [],
-            "categories": []
-        },
-        "Btd6": {
-            "path": "btd6",
-            "aliases": [],
-            "categories": []
-        },
-        "Bubble Pop Adventures": {
-            "path": "bubble-pop-adventures",
-            "aliases": [],
-            "categories": []
-        },
-        "Buckshot": {
-            "path": "buckshot",
-            "aliases": [],
-            "categories": []
-        },
-        "Buildnowgg": {
-            "path": "buildnowgg",
-            "aliases": [],
-            "categories": []
-        },
-        "Bullet Force": {
-            "path": "bullet-force",
-            "aliases": [],
-            "categories": []
-        },
-        "Bullet Party 2": {
-            "path": "bullet-party-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Burger Clicker": {
-            "path": "burger-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Burrito Bison": {
-            "path": "burrito-bison",
-            "aliases": [],
-            "categories": []
-        },
-        "Burrito Bison Launcha Libre": {
-            "path": "burrito-bison-launcha-libre",
-            "aliases": [],
-            "categories": []
-        },
-        "Candy Crush Saga": {
-            "path": "candy-crush-saga",
-            "aliases": [],
-            "categories": []
-        },
-        "Cannon Basketball 4": {
-            "path": "cannon-basketball-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Car Rush": {
-            "path": "car-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Cars Simulator": {
-            "path": "cars-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Case Clicker": {
-            "path": "case-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Cat Gunner Super Zombie Shoot": {
-            "path": "cat-gunner-super-zombie-shoot",
-            "aliases": [],
-            "categories": []
-        },
-        "Cats": {
-            "path": "cats",
-            "aliases": [],
-            "categories": []
-        },
-        "Checkers": {
-            "path": "checkers",
-            "aliases": [],
-            "categories": []
-        },
-        "Chicken Merge": {
-            "path": "chicken-merge",
-            "aliases": [],
-            "categories": []
-        },
-        "Choppy Orc": {
-            "path": "choppy-orc",
-            "aliases": [],
-            "categories": []
-        },
-        "Chrome Dino": {
-            "path": "chrome-dino",
-            "aliases": [],
-            "categories": []
-        },
-        "Circlo0": {
-            "path": "circlo0",
-            "aliases": [],
-            "categories": []
-        },
-        "City Coach Bus Sim": {
-            "path": "city-coach-bus-sim",
-            "aliases": [],
-            "categories": []
-        },
-        "Clash Royale": {
-            "path": "clash-royale",
-            "aliases": [],
-            "categories": []
-        },
-        "Clicker Heroes": {
-            "path": "clicker-heroes",
-            "aliases": [],
-            "categories": []
-        },
-        "Clicker Heroes Updated": {
-            "path": "clicker-heroes-updated",
-            "aliases": [],
-            "categories": []
-        },
-        "Climb Over It": {
-            "path": "climb-over-it",
-            "aliases": [],
-            "categories": []
-        },
-        "Connect 3": {
-            "path": "connect-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Conways Game Of Life": {
-            "path": "conways-game-of-life",
-            "aliases": [],
-            "categories": []
-        },
-        "Cookie Clicker": {
-            "path": "cookie-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Core Ball": {
-            "path": "core-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Craftmine": {
-            "path": "craftmine",
-            "aliases": [],
-            "categories": []
-        },
-        "Crazy Cars": {
-            "path": "crazy-cars",
-            "aliases": [],
-            "categories": []
-        },
-        "Crazygames": {
-            "path": "crazygames",
-            "aliases": [],
-            "categories": []
-        },
-        "Crazy Tunnel 3D": {
-            "path": "crazy-tunel-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Creative Kill Chamber": {
-            "path": "creative-kill-chamber",
-            "aliases": [],
-            "categories": []
-        },
-        "Creativekillchamber": {
-            "path": "creativekillchamber",
-            "aliases": [],
-            "categories": []
-        },
-        "Crossy Road": {
-            "path": "crossy-road",
-            "aliases": [],
-            "categories": []
-        },
-        "Crusherclicker": {
-            "path": "crusherclicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Csgo Clicker": {
-            "path": "csgo-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Cubeshot Io": {
-            "path": "cubeshot-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Cupcakes 2048": {
-            "path": "cupcakes-2048",
-            "aliases": [],
-            "categories": []
-        },
-        "Cut The Rope": {
-            "path": "cut-the-rope",
-            "aliases": [],
-            "categories": []
-        },
-        "Dadish": {
-            "path": "dadish",
-            "aliases": [],
-            "categories": []
-        },
-        "Dadish 2": {
-            "path": "dadish-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Dadish 3": {
-            "path": "dadish-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Dance": {
-            "path": "dance",
-            "aliases": [],
-            "categories": []
-        },
-        "Dark Ninja": {
-            "path": "dark-ninja",
-            "aliases": [],
-            "categories": []
-        },
-        "Dashcraft Io": {
-            "path": "dashcraft-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Dead Again": {
-            "path": "dead-again",
-            "aliases": [],
-            "categories": []
-        },
-        "Dead Plate": {
-            "path": "dead-plate",
-            "aliases": [],
-            "categories": []
-        },
-        "Deadshot Io": {
-            "path": "deadshot-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Deal Or No Deal": {
-            "path": "deal-or-no-deal",
-            "aliases": [],
-            "categories": []
-        },
-        "Deathcar Io": {
-            "path": "deathcar-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Death-Run 3D": {
-            "path": "death-run-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Deepest Sword": {
-            "path": "deepest-sword",
-            "aliases": [],
-            "categories": []
-        },
-        "Diebrary": {
-            "path": "diebrary",
-            "aliases": [],
-            "categories": []
-        },
-        "Dieeeeeep": {
-            "path": "dieeeeeep",
-            "aliases": [],
-            "categories": []
-        },
-        "Diggy": {
-            "path": "diggy",
-            "aliases": [],
-            "categories": []
-        },
-        "Dino Chrome Io": {
-            "path": "dino-chrome-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Dinosaurs Merge Master": {
-            "path": "dinosaurs-merge-master",
-            "aliases": [],
-            "categories": []
-        },
-        "Doge Miner": {
-            "path": "doge-miner",
-            "aliases": [],
-            "categories": []
-        },
-        "Doodle Jump": {
-            "path": "doodle-jump",
-            "aliases": [],
-            "categories": []
-        },
-        "Dots And Boxes": {
-            "path": "dots-and-boxes",
-            "aliases": [],
-            "categories": []
-        },
-        "Down The Hill": {
-            "path": "down-the-hill",
-            "aliases": [],
-            "categories": []
-        },
-        "Dreadhead Parkour": {
-            "path": "dreadhead-parkour",
-            "aliases": [],
-            "categories": []
-        },
-        "Drift Boss": {
-            "path": "drift-boss",
-            "aliases": [],
-            "categories": []
-        },
-        "Drift Hunters": {
-            "path": "drift-hunters",
-            "aliases": [],
-            "categories": []
-        },
-        "Drive Mad": {
-            "path": "drive-mad",
-            "aliases": [],
-            "categories": []
-        },
-        "Drive Mad S": {
-            "path": "drive-mad-s",
-            "aliases": [],
-            "categories": []
-        },
-        "Ducklife": {
-            "path": "ducklife",
-            "aliases": [],
-            "categories": []
-        },
-        "Ducklife2": {
-            "path": "ducklife2",
-            "aliases": [],
-            "categories": []
-        },
-        "Ducklife3": {
-            "path": "ducklife3",
-            "aliases": [],
-            "categories": []
-        },
-        "Duck Life 4": {
-            "path": "duck-life-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Duke Dashington Remastered": {
-            "path": "duke-dashington-remastered",
-            "aliases": [],
-            "categories": []
-        },
-        "Dune": {
-            "path": "dune",
-            "aliases": [],
-            "categories": []
-        },
-        "Dunkers 2": {
-            "path": "dunkers-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Eggy Car": {
-            "path": "eggy-car",
-            "aliases": [],
-            "categories": []
-        },
-        "Elastic Man": {
-            "path": "elastic-man",
-            "aliases": [],
-            "categories": []
-        },
-        "Electron Dash": {
-            "path": "electron-dash",
-            "aliases": [],
-            "categories": []
-        },
-        "Endless Tunnel": {
-            "path": "endless-tunnel",
-            "aliases": [],
-            "categories": []
-        },
-        "Endless War 3": {
-            "path": "endless-war-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Eparkour Io": {
-            "path": "eparkour-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Escape Road": {
-            "path": "escape-road",
-            "aliases": [],
-            "categories": []
-        },
-        "Ev Io": {
-            "path": "ev-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Evowars": {
-            "path": "evowars",
-            "aliases": [],
-            "categories": []
-        },
-        "Fallenlondon": {
-            "path": "fallenlondon",
-            "aliases": [],
-            "categories": []
-        },
-        "Fall Guys Ultimate Knockout": {
-            "path": "fall-guys-ultimate-knockout",
-            "aliases": [],
-            "categories": []
-        },
-        "Falling Fred": {
-            "path": "falling-fred",
-            "aliases": [],
-            "categories": []
-        },
-        "Family Feud": {
-            "path": "family-feud",
-            "aliases": [],
-            "categories": []
-        },
-        "Farm Match Seasons": {
-            "path": "farm-match-seasons",
-            "aliases": [],
-            "categories": []
-        },
-        "Fc": {
-            "path": "fc",
-            "aliases": [],
-            "categories": []
-        },
-        "Fc 25": {
-            "path": "fc-25",
-            "aliases": [],
-            "categories": []
-        },
-        "Ferge Io": {
-            "path": "ferge-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Fightz Io": {
-            "path": "fightz-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl": {
-            "path": "fireboy-and-watergirl",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl 2": {
-            "path": "fireboy-and-watergirl-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl 3": {
-            "path": "fireboy-and-watergirl-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl 4": {
-            "path": "fireboy-and-watergirl-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl 6": {
-            "path": "fireboy-and-watergirl-6",
-            "aliases": [],
-            "categories": []
-        },
-        "Fireboy And Watergirl Forest Temple": {
-            "path": "fireboy-and-watergirl-forest-temple",
-            "aliases": [],
-            "categories": []
-        },
-        "Fire Truck Rescue": {
-            "path": "fire-truck-rescue",
-            "aliases": [],
-            "categories": []
-        },
-        "Fishing And Lines": {
-            "path": "fishing-and-lines",
-            "aliases": [],
-            "categories": []
-        },
-        "Fishing Frenzy": {
-            "path": "fishing-frenzy",
-            "aliases": [],
-            "categories": []
-        },
-        "Five Nights At Freddies 2": {
-            "path": "five-nights-at-freddies-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Five Nights At Freddys 3": {
-            "path": "five-nights-at-freddys-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Flappy Bird": {
-            "path": "flappy-bird",
-            "aliases": [],
-            "categories": []
-        },
-        "Flash": {
-            "path": "flash",
-            "aliases": [],
-            "categories": []
-        },
-        "Flip Bottle": {
-            "path": "flip-bottle",
-            "aliases": [],
-            "categories": []
-        },
-        "Fnaf 2": {
-            "path": "fnaf-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Fnaf 4": {
-            "path": "fnaf-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Fnaf Shooter": {
-            "path": "fnaf-shooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Fnaf Web": {
-            "path": "fnaf-web",
-            "aliases": [],
-            "categories": []
-        },
-        "Fnf Online": {
-            "path": "fnf-online",
-            "aliases": [],
-            "categories": []
-        },
-        "Football Run": {
-            "path": "football-run",
-            "aliases": [],
-            "categories": []
-        },
-        "Football Strike": {
-            "path": "football-strike",
-            "aliases": [],
-            "categories": []
-        },
-        "Fortnight": {
-            "path": "fortnight",
-            "aliases": [],
-            "categories": []
-        },
-        "Fortnite Made In China": {
-            "path": "fortnite-made-in-china",
-            "aliases": [],
-            "categories": []
-        },
-        "Fred Running": {
-            "path": "fred-running",
-            "aliases": [],
-            "categories": []
-        },
-        "Free Kick Classic": {
-            "path": "free-kick-classic",
-            "aliases": [],
-            "categories": []
-        },
-        "Friday Night Funkin": {
-            "path": "friday-night-funkin",
-            "aliases": [],
-            "categories": []
-        },
-        "Funnyshooter": {
-            "path": "funnyshooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Funny Shooter 3D": {
-            "path": "funny-shooter-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Funny Shooter Destroy All": {
-            "path": "funny-shooter-destroy-all",
-            "aliases": [],
-            "categories": []
-        },
-        "Gartic Io": {
-            "path": "gartic-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Gartic Phone Io": {
-            "path": "gartic-phone-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Geodash": {
-            "path": "geodash",
-            "aliases": [],
-            "categories": []
-        },
-        "Geodash 2": {
-            "path": "geodash-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Geofs": {
-            "path": "geofs",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Dash": {
-            "path": "geometrydash",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Dash 2": {
-            "path": "geometrydash2",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Dash Lite": {
-            "path": "geometry-dash-lite",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Dash Remastered": {
-            "path": "geometry-dash-remastered",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Monster Shell Shockers": {
-            "path": "geometry-monster-shell-shockers",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Vibes": {
-            "path": "geometry-vibes",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Vibes Monster": {
-            "path": "geometry-vibes-monster",
-            "aliases": [],
-            "categories": []
-        },
-        "Geometry Vibes X Ball": {
-            "path": "geometry-vibes-x-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Getaway Shootout": {
-            "path": "getaway-shootout",
-            "aliases": [],
-            "categories": []
-        },
-        "Get On Top": {
-            "path": "get-on-top",
-            "aliases": [],
-            "categories": []
-        },
-        "Getting Over It": {
-            "path": "getting-over-it",
-            "aliases": [],
-            "categories": []
-        },
-        "Gigga Io": {
-            "path": "gigga-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Gladi": {
-            "path": "gladi",
-            "aliases": [],
-            "categories": []
-        },
-        "Gobdun": {
-            "path": "gobdun",
-            "aliases": [],
-            "categories": []
-        },
-        "Gold Digger Frvr": {
-            "path": "gold-digger-frvr",
-            "aliases": [],
-            "categories": []
-        },
-        "Gons Io": {
-            "path": "gons-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Google Snake": {
-            "path": "google-snake",
-            "aliases": [],
-            "categories": []
-        },
-        "Grand Vegas Simulator": {
-            "path": "grand-vegas-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Granny": {
-            "path": "granny",
-            "aliases": [],
-            "categories": []
-        },
-        "Gravity Soccer": {
-            "path": "gravity-soccer",
-            "aliases": [],
-            "categories": []
-        },
-        "Grindcraft Remastered": {
-            "path": "grindcraft-remastered",
-            "aliases": [],
-            "categories": []
-        },
-        "Gswitch": {
-            "path": "gswitch",
-            "aliases": [],
-            "categories": []
-        },
-        "Gswitch 2": {
-            "path": "gswitch-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Gswitch 3": {
-            "path": "gswitch-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Gswitch 4": {
-            "path": "gswitch-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Gta": {
-            "path": "gta",
-            "aliases": [],
-            "categories": []
-        },
-        "Gulper Io": {
-            "path": "gulper-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Gun Mayhem 2": {
-            "path": "gunmayhem2",
-            "aliases": [],
-            "categories": []
-        },
-        "Gun Mayhem Redux": {
-            "path": "gunmayhemredux",
-            "aliases": [],
-            "categories": []
-        },
-        "Gun Spin": {
-            "path": "gunspin",
-            "aliases": [],
-            "categories": []
-        },
-        "Guymayhem": {
-            "path": "guymayhem",
-            "aliases": [],
-            "categories": []
-        },
-        "Hammer 2": {
-            "path": "hammer-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Hammer 2 Reloaded": {
-            "path": "hammer-2-reloaded",
-            "aliases": [],
-            "categories": []
-        },
-        "Hanger": {
-            "path": "hanger",
-            "aliases": [],
-            "categories": []
-        },
-        "Hanger 2": {
-            "path": "hanger-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Happy Fishing": {
-            "path": "happy-fishing",
-            "aliases": [],
-            "categories": []
-        },
-        "Happy Wheels": {
-            "path": "happy-wheels",
-            "aliases": [],
-            "categories": []
-        },
-        "Head Soccer 2023": {
-            "path": "head-soccer-2023",
-            "aliases": [],
-            "categories": []
-        },
-        "Hep": {
-            "path": "hep",
-            "aliases": [],
-            "categories": []
-        },
-        "Hexa": {
-            "path": "hexa",
-            "aliases": [],
-            "categories": []
-        },
-        "Hexanaut Io": {
-            "path": "hexanaut-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Hexbee Merger": {
-            "path": "hexbee-merger",
-            "aliases": [],
-            "categories": []
-        },
-        "Hextris": {
-            "path": "hextris",
-            "aliases": [],
-            "categories": []
-        },
-        "Hide And Smash": {
-            "path": "hide-and-smash",
-            "aliases": [],
-            "categories": []
-        },
-        "Highway Race 2": {
-            "path": "highway-race2",
-            "aliases": [],
-            "categories": []
-        },
-        "Highway Racer": {
-            "path": "highway-racer",
-            "aliases": [],
-            "categories": []
-        },
-        "Hill Climb Racing 2": {
-            "path": "hill-climb-racing-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Hole Io": {
-            "path": "hole-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Holeio": {
-            "path": "holeio",
-            "aliases": [],
-            "categories": []
-        },
-        "Hop And Pop It": {
-            "path": "hop-and-pop-it",
-            "aliases": [],
-            "categories": []
-        },
-        "House Of Hazards": {
-            "path": "house-of-hazards",
-            "aliases": [],
-            "categories": []
-        },
-        "Houseofhazards": {
-            "path": "houseofhazards",
-            "aliases": [],
-            "categories": []
-        },
-        "Icy Purple Head 2": {
-            "path": "icy-purple-head-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Icy Purple Head 3": {
-            "path": "icy-purple-head-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Breakout": {
-            "path": "idle-breakout",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Light City": {
-            "path": "idle-light-city",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Mining Empire": {
-            "path": "idle-mining-empire",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Restaurants": {
-            "path": "idle-restaurants",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Restaurants Tycoon": {
-            "path": "idle-restaurants-tycoon",
-            "aliases": [],
-            "categories": []
-        },
-        "Idle Tree City": {
-            "path": "idle-tree-city",
-            "aliases": [],
-            "categories": []
-        },
-        "Imposible Monster Truck": {
-            "path": "impossible-monster-truck",
-            "aliases": [],
-            "categories": []
-        },
-        "Incremancer": {
-            "path": "incremancer",
-            "aliases": [],
-            "categories": []
-        },
-        "Indian Truck": {
-            "path": "indian-truck",
-            "aliases": [],
-            "categories": []
-        },
-        "Infinitecraft": {
-            "path": "infinitecraft",
-            "aliases": [],
-            "categories": []
-        },
-        "Infinite Soccer": {
-            "path": "infinite-soccer",
-            "aliases": [],
-            "categories": []
-        },
-        "Iron Snout": {
-            "path": "iron-snout",
-            "aliases": [],
-            "categories": []
-        },
-        "Jelly Drift": {
-            "path": "jelly-drift",
-            "aliases": [],
-            "categories": []
-        },
-        "Jelly Truck": {
-            "path": "jelly-truck",
-            "aliases": [],
-            "categories": []
-        },
-        "Jetpack Joyride": {
-            "path": "jetpack-joyride",
-            "aliases": [],
-            "categories": []
-        },
-        "Jetpack Joyride Browser": {
-            "path": "jetpack-joyride-browser",
-            "aliases": [],
-            "categories": []
-        },
-        "Jewels Blitz 5": {
-            "path": "jewels-blitz-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Johnny Revenge": {
-            "path": "johnny-revenge",
-            "aliases": [],
-            "categories": []
-        },
-        "Johnny Trigger": {
-            "path": "johnny-trigger",
-            "aliases": [],
-            "categories": []
-        },
-        "Johnny Upgrade": {
-            "path": "johnny-upgrade",
-            "aliases": [],
-            "categories": []
-        },
-        "Johny Revenge": {
-            "path": "johny-revenge",
-            "aliases": [],
-            "categories": []
-        },
-        "Johny Trigger": {
-            "path": "johny-trigger",
-            "aliases": [],
-            "categories": []
-        },
-        "Jungle Td": {
-            "path": "jungle-td",
-            "aliases": [],
-            "categories": []
-        },
-        "Jungle Tower Defense": {
-            "path": "jungle-tower-defense",
-            "aliases": [],
-            "categories": []
-        },
-        "Just Fall Lol": {
-            "path": "just-fall-lol",
-            "aliases": [],
-            "categories": []
-        },
-        "Kart Fight Io": {
-            "path": "kart-fight-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Kart Race 3D": {
-            "path": "kart-race-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Kartwars": {
-            "path": "kartwars",
-            "aliases": [],
-            "categories": []
-        },
-        "Kawaii Dressup": {
-            "path": "kawaii-dressup",
-            "aliases": [],
-            "categories": []
-        },
-        "Kirka Io": {
-            "path": "kirka-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Knight Hero Adventure": {
-            "path": "knight-hero-adventure",
-            "aliases": [],
-            "categories": []
-        },
-        "Knight Hero Adventure Rpg": {
-            "path": "knight-hero-adventure-rpg",
-            "aliases": [],
-            "categories": []
-        },
-        "Kour": {
-            "path": "kour",
-            "aliases": [],
-            "categories": []
-        },
-        "Kour Io": {
-            "path": "kour-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Krunker": {
-            "path": "krunker",
-            "aliases": [],
-            "categories": []
-        },
-        "Krunker Io": {
-            "path": "krunker-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Lands Of Blight": {
-            "path": "lands-of-blight",
-            "aliases": [],
-            "categories": []
-        },
-        "Leader Strike": {
-            "path": "leader-strike",
-            "aliases": [],
-            "categories": []
-        },
-        "Learn To Fly": {
-            "path": "learn-to-fly",
-            "aliases": [],
-            "categories": []
-        },
-        "Lethal Sniper 3D Army Soldier": {
-            "path": "lethal-sniper-3d-army-soldier",
-            "aliases": [],
-            "categories": []
-        },
-        "Level Devil": {
-            "path": "level-devil",
-            "aliases": [],
-            "categories": []
-        },
-        "Lion Soldiers Vengence": {
-            "path": "lion-soldiers-vengeance",
-            "aliases": [],
-            "categories": []
-        },
-        "Littlealchemy": {
-            "path": "littlealchemy",
-            "aliases": [],
-            "categories": []
-        },
-        "Littlealchemy2": {
-            "path": "littlealchemy2",
-            "aliases": [],
-            "categories": []
-        },
-        "Little Master Cricket": {
-            "path": "little-master-cricket",
-            "aliases": [],
-            "categories": []
-        },
-        "Lolbeans": {
-            "path": "lolbeans",
-            "aliases": [],
-            "categories": []
-        },
-        "Lolbeans Io": {
-            "path": "lolbeans-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Lol Shot Io": {
-            "path": "lol-shot-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Lovely Fox": {
-            "path": "lovely-fox",
-            "aliases": [],
-            "categories": []
-        },
-        "Ludo Multiplayer": {
-            "path": "ludo-multiplayer",
-            "aliases": [],
-            "categories": []
-        },
-        "Lurkers Io": {
-            "path": "lurkers-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Ma": {
-            "path": "ma",
-            "aliases": [],
-            "categories": []
-        },
-        "Madalin Cars Multiplayer": {
-            "path": "madalin-cars-multiplayer",
-            "aliases": [],
-            "categories": []
-        },
-        "Madalin Stunt Cars 2": {
-            "path": "madalin-stunt-cars-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Madalin Stunt Cars 3": {
-            "path": "madalin-stunt-cars-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Mad Day": {
-            "path": "mad-day",
-            "aliases": [],
-            "categories": []
-        },
-        "Mad Gunz": {
-            "path": "mad-gunz",
-            "aliases": [],
-            "categories": []
-        },
-        "Mad Shark": {
-            "path": "mad-shark",
-            "aliases": [],
-            "categories": []
-        },
-        "Mad Truck Challenge": {
-            "path": "mad-truck-challenge",
-            "aliases": [],
-            "categories": []
-        },
-        "Madzoong": {
-            "path": "madzoong",
-            "aliases": [],
-            "categories": []
-        },
-        "Mafia Wars": {
-            "path": "mafia-wars",
-            "aliases": [],
-            "categories": []
-        },
-        "Maptroid": {
-            "path": "maptroid",
-            "aliases": [],
-            "categories": []
-        },
-        "Marble Dash": {
-            "path": "marble-dash",
-            "aliases": [],
-            "categories": []
-        },
-        "Marbles Sorting": {
-            "path": "marbles-sorting",
-            "aliases": [],
-            "categories": []
-        },
-        "Mario": {
-            "path": "mario",
-            "aliases": [],
-            "categories": []
-        },
-        "Mario-Game": {
-            "path": "mario-game",
-            "aliases": [],
-            "categories": []
-        },
-        "Masked Forces": {
-            "path": "masked-forces",
-            "aliases": [],
-            "categories": []
-        },
-        "Master Checkers": {
-            "path": "master-checkers",
-            "aliases": [],
-            "categories": []
-        },
-        "Maze Path Of Light": {
-            "path": "maze-path-of-light",
-            "aliases": [],
-            "categories": []
-        },
-        "Maze Planet 3D": {
-            "path": "maze-planet-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Melonplayground": {
-            "path": "melonplayground",
-            "aliases": [],
-            "categories": []
-        },
-        "Merc Zone": {
-            "path": "merc-zone",
-            "aliases": [],
-            "categories": []
-        },
-        "Merge Cakes": {
-            "path": "merge-cakes",
-            "aliases": [],
-            "categories": []
-        },
-        "Merge Cyber Racers": {
-            "path": "merge-cyber-racers",
-            "aliases": [],
-            "categories": []
-        },
-        "Merge Harvest": {
-            "path": "merge-harvest",
-            "aliases": [],
-            "categories": []
-        },
-        "Merge Party": {
-            "path": "merge-party",
-            "aliases": [],
-            "categories": []
-        },
-        "Merge Round Racers": {
-            "path": "merge-round-racers",
-            "aliases": [],
-            "categories": []
-        },
-        "Minecraft Builder": {
-            "path": "minecraft-builder",
-            "aliases": [],
-            "categories": []
-        },
-        "Minecraft Case Simulator": {
-            "path": "minecraft-case-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Minecraft Classic": {
-            "path": "minecraft-classic",
-            "aliases": [],
-            "categories": []
-        },
-        "Mine Craftio": {
-            "path": "mine-craftio",
-            "aliases": [],
-            "categories": []
-        },
-        "Minesweeper": {
-            "path": "minesweeper",
-            "aliases": [],
-            "categories": []
-        },
-        "Miniblox": {
-            "path": "miniblox",
-            "aliases": [],
-            "categories": []
-        },
-        "Mob City": {
-            "path": "mob-city",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Movers": {
-            "path": "money-movers",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Movers 2": {
-            "path": "money-movers-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Movers 3": {
-            "path": "money-movers-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Movers Guard Duty": {
-            "path": "money-movers-guard-duty",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Roller": {
-            "path": "money-roller",
-            "aliases": [],
-            "categories": []
-        },
-        "Money Rush": {
-            "path": "money-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Monkey Mart": {
-            "path": "monkey-mart",
-            "aliases": [],
-            "categories": []
-        },
-        "Monsters Wheels Special": {
-            "path": "monsters-wheels-special",
-            "aliases": [],
-            "categories": []
-        },
-        "Monster Truck Racing Arena": {
-            "path": "monster-truck-racing-arena",
-            "aliases": [],
-            "categories": []
-        },
-        "Monster Truck Vs Zombie": {
-            "path": "monster-truck-vs-zombie",
-            "aliases": [],
-            "categories": []
-        },
-        "Moomoo Io Sandbox": {
-            "path": "moomoo-io-sandbox",
-            "aliases": [],
-            "categories": []
-        },
-        "Mosaic Puzzle Art": {
-            "path": "mosaic-puzzle-art",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto Maniac": {
-            "path": "moto-maniac",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto Maniac 2": {
-            "path": "moto-maniac-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto Maniac 3": {
-            "path": "moto-maniac-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto Trial Racing 2": {
-            "path": "moto-trial-racing-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M": {
-            "path": "moto-x3m",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M-3-Pool-Party": {
-            "path": "moto-x3m-3-pool-party",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M4-Winter": {
-            "path": "moto-x3m4-winter",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M-5-Pool-Party": {
-            "path": "moto-x3m-5-pool-party",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M-6-Spooky-Land": {
-            "path": "moto-x3m-6-spooky-land",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto-X3M-Winter": {
-            "path": "moto-x3m-winter",
-            "aliases": [],
-            "categories": []
-        },
-        "Moto3Xm Pool Party": {
-            "path": "moto3xm-pool-party",
-            "aliases": [],
-            "categories": []
-        },
-        "Motox3M": {
-            "path": "motox3m",
-            "aliases": [],
-            "categories": []
-        },
-        "Motox3M Pool": {
-            "path": "motox3m-pool",
-            "aliases": [],
-            "categories": []
-        },
-        "Motox3M2": {
-            "path": "motox3m2",
-            "aliases": [],
-            "categories": []
-        },
-        "Motox3M3": {
-            "path": "motox3m3",
-            "aliases": [],
-            "categories": []
-        },
-        "Motox3M Winter": {
-            "path": "motox3m-winter",
-            "aliases": [],
-            "categories": []
-        },
-        "Moving Truck Bounty": {
-            "path": "moving-truck-bounty",
-            "aliases": [],
-            "categories": []
-        },
-        "Mr Bullet": {
-            "path": "mr-bullet",
-            "aliases": [],
-            "categories": []
-        },
-        "Mutazone": {
-            "path": "mutazone",
-            "aliases": [],
-            "categories": []
-        },
-        "My Perfect Hotel": {
-            "path": "my-perfect-hotel",
-            "aliases": [],
-            "categories": []
-        },
-        "My Pony My Little Race": {
-            "path": "my-pony-my-little-race",
-            "aliases": [],
-            "categories": []
-        },
-        "Mystical Birdlink": {
-            "path": "mystical-birdlink",
-            "aliases": [],
-            "categories": []
-        },
-        "Neon War": {
-            "path": "neon-war",
-            "aliases": [],
-            "categories": []
-        },
-        "N Gon": {
-            "path": "n-gon",
-            "aliases": [],
-            "categories": []
-        },
-        "Nightpoint Io": {
-            "path": "nightpoint-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Ninja Cat Exploit": {
-            "path": "ninja-cat-exploit",
-            "aliases": [],
-            "categories": []
-        },
-        "Noob Hook": {
-            "path": "noob-hook",
-            "aliases": [],
-            "categories": []
-        },
-        "Noob Steve": {
-            "path": "noob-steve",
-            "aliases": [],
-            "categories": []
-        },
-        "Noob Steve Parkour": {
-            "path": "noob-steve-parkour",
-            "aliases": [],
-            "categories": []
-        },
-        "N Step Steve Part 1": {
-            "path": "n-step-steve-part-1",
-            "aliases": [],
-            "categories": []
-        },
-        "N Step Steve Part 2": {
-            "path": "n-step-steve-part-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Nuggetroyale Io": {
-            "path": "nuggetroyale-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Odd Bot Out": {
-            "path": "odd-bot-out",
-            "aliases": [],
-            "categories": []
-        },
-        "Off-Road Rain Cargo Simulator": {
-            "path": "off-road-rain-cargo-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Offroad Ultimate": {
-            "path": "offroad-ultimate",
-            "aliases": [],
-            "categories": []
-        },
-        "Omori": {
-            "path": "omori",
-            "aliases": [],
-            "categories": []
-        },
-        "Onion Boy": {
-            "path": "onion-boy",
-            "aliases": [],
-            "categories": []
-        },
-        "Only Up": {
-            "path": "only-up",
-            "aliases": [],
-            "categories": []
-        },
-        "Only Up 2": {
-            "path": "only-up-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Only Up 3D Parkour": {
-            "path": "only-up-3d-parkour",
-            "aliases": [],
-            "categories": []
-        },
-        "Orbital Survival": {
-            "path": "orbital-survival",
-            "aliases": [],
-            "categories": []
-        },
-        "Ovo": {
-            "path": "ovo",
-            "aliases": [],
-            "categories": []
-        },
-        "Ovo 2 144 Version": {
-            "path": "ovo-2-144-version",
-            "aliases": [],
-            "categories": []
-        },
-        "Ovo 3": {
-            "path": "ovo-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Ovo 3 Dimensions": {
-            "path": "ovo-3-dimensions",
-            "aliases": [],
-            "categories": []
-        },
-        "Pack A Bag": {
-            "path": "pack-a-bag",
-            "aliases": [],
-            "categories": []
-        },
-        "Pacman Remake": {
-            "path": "pacman-remake",
-            "aliases": [],
-            "categories": []
-        },
-        "Paint Strike": {
-            "path": "paint-strike",
-            "aliases": [],
-            "categories": []
-        },
-        "Panda Bubble Shooter": {
-            "path": "panda-bubble-shooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Panda Simulator 3D": {
-            "path": "panda-simulator-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Papas Burgeria": {
-            "path": "papas-burgeria",
-            "aliases": [],
-            "categories": []
-        },
-        "Papas Freezeria": {
-            "path": "papas-freezeria",
-            "aliases": [],
-            "categories": []
-        },
-        "Papas Pizzaria": {
-            "path": "papas-pizzaria",
-            "aliases": [],
-            "categories": []
-        },
-        "Paper 2 Io": {
-            "path": "paper-2-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Paperio": {
-            "path": "paperio",
-            "aliases": [],
-            "categories": []
-        },
-        "Paperio 2": {
-            "path": "paperio2",
-            "aliases": [],
-            "categories": []
-        },
-        "Papery Planes": {
-            "path": "papery-planes",
-            "aliases": [],
-            "categories": []
-        },
-        "Paperyplanes1": {
-            "path": "paperyplanes1",
-            "aliases": [],
-            "categories": []
-        },
-        "Parenting": {
-            "path": "parenting",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury": {
-            "path": "parking-fury",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 2": {
-            "path": "parking-fury-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 3": {
-            "path": "parking-fury-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 3D": {
-            "path": "parking-fury-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 3D Beach City": {
-            "path": "parking-fury-3d-beach-city",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 3D Bounty Hunter": {
-            "path": "parking-fury-3d-bounty-hunter",
-            "aliases": [],
-            "categories": []
-        },
-        "Parking Fury 3D Night Thief": {
-            "path": "parking-fury-3d-night-thief",
-            "aliases": [],
-            "categories": []
-        },
-        "Parkour Race": {
-            "path": "parkour-race",
-            "aliases": [],
-            "categories": []
-        },
-        "Park Out": {
-            "path": "park-out",
-            "aliases": [],
-            "categories": []
-        },
-        "Particle Clicker": {
-            "path": "particle-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Pcraft": {
-            "path": "pcraft",
-            "aliases": [],
-            "categories": []
-        },
-        "Penalty Kick": {
-            "path": "penalty-kick",
-            "aliases": [],
-            "categories": []
-        },
-        "Penalty Kick Online": {
-            "path": "penalty-kick-online",
-            "aliases": [],
-            "categories": []
-        },
-        "Penalty Shooters 2": {
-            "path": "penalty-shooters-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Penalty Shooters 3": {
-            "path": "penalty-shooters-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Peppa Pig Basketball": {
-            "path": "peppa-pig-basketball",
-            "aliases": [],
-            "categories": []
-        },
-        "Perfect Dunk": {
-            "path": "perfect-dunk",
-            "aliases": [],
-            "categories": []
-        },
-        "Petz Lol": {
-            "path": "petz-lol",
-            "aliases": [],
-            "categories": []
-        },
-        "Ping Pong Chaos": {
-            "path": "ping-pong-chaos",
-            "aliases": [],
-            "categories": []
-        },
-        "Pixel Gun 3D": {
-            "path": "pixel-gun-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Pixel Gun Apocalypse 2": {
-            "path": "pixel-gun-apocalypse-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Pixel Smash Duel": {
-            "path": "pixel-smash-duel",
-            "aliases": [],
-            "categories": []
-        },
-        "Pizza Tower": {
-            "path": "pizza-tower",
-            "aliases": [],
-            "categories": []
-        },
-        "Planet Life": {
-            "path": "planet-life",
-            "aliases": [],
-            "categories": []
-        },
-        "Pokemongames": {
-            "path": "pokemongames",
-            "aliases": [],
-            "categories": []
-        },
-        "Polytrack": {
-            "path": "polytrack",
-            "aliases": [],
-            "categories": []
-        },
-        "Pony Dressup 2": {
-            "path": "pony-dressup-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Pool Club": {
-            "path": "pool-club",
-            "aliases": [],
-            "categories": []
-        },
-        "Poop Clicker 3": {
-            "path": "poop-clicker-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Poor Bunny": {
-            "path": "poor-bunny",
-            "aliases": [],
-            "categories": []
-        },
-        "Pop It Master": {
-            "path": "pop-it-master",
-            "aliases": [],
-            "categories": []
-        },
-        "Pou": {
-            "path": "pou",
-            "aliases": [],
-            "categories": []
-        },
-        "President-Simulator": {
-            "path": "president-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Prismo Coloring": {
-            "path": "prismo-coloring",
-            "aliases": [],
-            "categories": []
-        },
-        "Progress Knight Quest": {
-            "path": "progress-knight-quest",
-            "aliases": [],
-            "categories": []
-        },
-        "Progress Knight Reborn": {
-            "path": "progress-knight-reborn",
-            "aliases": [],
-            "categories": []
-        },
-        "Pudding Monsters": {
-            "path": "pudding-monsters",
-            "aliases": [],
-            "categories": []
-        },
-        "Pull Of War": {
-            "path": "pull-of-war",
-            "aliases": [],
-            "categories": []
-        },
-        "Push The Box": {
-            "path": "push-the-box",
-            "aliases": [],
-            "categories": []
-        },
-        "Push The Box 3D": {
-            "path": "push-the-box-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Rabbit Samurai": {
-            "path": "rabbit-samurai",
-            "aliases": [],
-            "categories": []
-        },
-        "Rabbit Samurai 2": {
-            "path": "rabbit-samurai-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Racesurvival": {
-            "path": "racesurvival",
-            "aliases": [],
-            "categories": []
-        },
-        "Raft Wars": {
-            "path": "raft-wars",
-            "aliases": [],
-            "categories": []
-        },
-        "Raft Wars 2": {
-            "path": "raft-wars-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Raft Warz 2": {
-            "path": "raft-warz-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Ragdoll Archers": {
-            "path": "ragdoll-archers",
-            "aliases": [],
-            "categories": []
-        },
-        "Ragdoll Archers Crazygames": {
-            "path": "ragdoll-archers-crazygames",
-            "aliases": [],
-            "categories": []
-        },
-        "Ragdoll Hit": {
-            "path": "ragdoll-hit",
-            "aliases": [],
-            "categories": []
-        },
-        "Rainbow Parkour Kogama": {
-            "path": "rainbow-parkour-kogama",
-            "aliases": [],
-            "categories": []
-        },
-        "Rally Champion": {
-            "path": "rally-champion",
-            "aliases": [],
-            "categories": []
-        },
-        "Reach The Core": {
-            "path": "reach-the-core",
-            "aliases": [],
-            "categories": []
-        },
-        "Real Flying Truck": {
-            "path": "real-flying-truck",
-            "aliases": [],
-            "categories": []
-        },
-        "Real Garbage Truck": {
-            "path": "real-garbage-truck",
-            "aliases": [],
-            "categories": []
-        },
-        "Recoil": {
-            "path": "recoil",
-            "aliases": [],
-            "categories": []
-        },
-        "Redball": {
-            "path": "redball",
-            "aliases": [],
-            "categories": []
-        },
-        "Red Ball 4": {
-            "path": "red-ball-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Red Driver 5": {
-            "path": "red-driver-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Repuls": {
-            "path": "repuls",
-            "aliases": [],
-            "categories": []
-        },
-        "Resent": {
-            "path": "resent",
-            "aliases": [],
-            "categories": []
-        },
-        "Resentcli": {
-            "path": "ResentCli",
-            "aliases": [],
-            "categories": []
-        },
-        "Restless Wing Syndrome": {
-            "path": "restless-wing-syndrome",
-            "aliases": [],
-            "categories": []
-        },
-        "Retro Bowl": {
-            "path": "retro-bowl",
-            "aliases": [],
-            "categories": []
-        },
-        "Retro Bowl Old": {
-            "path": "retro-bowl-old",
-            "aliases": [],
-            "categories": []
-        },
-        "Riddle School 5": {
-            "path": "riddle-school-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Riddle Transfer 2": {
-            "path": "riddle-transfer-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Rift Shift": {
-            "path": "rift-shift",
-            "aliases": [],
-            "categories": []
-        },
-        "Rise Of Neon Square": {
-            "path": "rise-of-neon-square",
-            "aliases": [],
-            "categories": []
-        },
-        "Roblox": {
-            "path": "roblox",
-            "aliases": [],
-            "categories": []
-        },
-        "Rocket League": {
-            "path": "rocket-league",
-            "aliases": [],
-            "categories": []
-        },
-        "Rocket League 2D": {
-            "path": "rocket-league-2d",
-            "aliases": [],
-            "categories": []
-        },
-        "Rocket Pult": {
-            "path": "rocket-pult",
-            "aliases": [],
-            "categories": []
-        },
-        "Rolling Ball 3D": {
-            "path": "rolling-ball-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Rolly Vortex": {
-            "path": "rolly-vortex",
-            "aliases": [],
-            "categories": []
-        },
-        "Rolly Vortex Ball": {
-            "path": "rolly-vortex-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Rooftop Snipers": {
-            "path": "rooftop-snipers",
-            "aliases": [],
-            "categories": []
-        },
-        "Rooftop Snipers 2": {
-            "path": "rooftopsnipers2",
-            "aliases": [],
-            "categories": []
-        },
-        "Rookie Bowman": {
-            "path": "rookie-bowman",
-            "aliases": [],
-            "categories": []
-        },
-        "Roper": {
-            "path": "roper",
-            "aliases": [],
-            "categories": []
-        },
-        "Royale Dudes": {
-            "path": "royale-dudes",
-            "aliases": [],
-            "categories": []
-        },
-        "Royale Dudes Io": {
-            "path": "royale-dudes-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Rugby Rush": {
-            "path": "rugby-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Run 3": {
-            "path": "run-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Run 3 Beta": {
-            "path": "run-3-beta",
-            "aliases": [],
-            "categories": []
-        },
-        "Run 3 Editor": {
-            "path": "run-3-editor",
-            "aliases": [],
-            "categories": []
-        },
-        "Running Fred": {
-            "path": "running-fred",
-            "aliases": [],
-            "categories": []
-        },
-        "Rusher Crusher": {
-            "path": "rusher-crusher",
-            "aliases": [],
-            "categories": []
-        },
-        "Sabercut": {
-            "path": "sabercut",
-            "aliases": [],
-            "categories": []
-        },
-        "Sandspiel": {
-            "path": "sandspiel",
-            "aliases": [],
-            "categories": []
-        },
-        "Sandstrike Io": {
-            "path": "sandstrike-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Sausage Flip": {
-            "path": "sausage-flip",
-            "aliases": [],
-            "categories": []
-        },
-        "Sausage Flipping": {
-            "path": "sausage-flipping",
-            "aliases": [],
-            "categories": []
-        },
-        "Save The Doge": {
-            "path": "save-the-doge",
-            "aliases": [],
-            "categories": []
-        },
-        "Scenexe Io": {
-            "path": "scenexe-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Scrap Divers": {
-            "path": "scrap-divers",
-            "aliases": [],
-            "categories": []
-        },
-        "Scrap Metal 3 Infernal Trap": {
-            "path": "scrap-metal-3-infernal-trap",
-            "aliases": [],
-            "categories": []
-        },
-        "Scrap Metal Infernal": {
-            "path": "scrap-metal-infernal",
-            "aliases": [],
-            "categories": []
-        },
-        "Scuba Bear": {
-            "path": "scuba-bear",
-            "aliases": [],
-            "categories": []
-        },
-        "Shadow Fight": {
-            "path": "shadow-fight",
-            "aliases": [],
-            "categories": []
-        },
-        "Shady Bears": {
-            "path": "shady-bears",
-            "aliases": [],
-            "categories": []
-        },
-        "Shape Fold Animals": {
-            "path": "shape-fold-animals",
-            "aliases": [],
-            "categories": []
-        },
-        "Shape Fold Html5": {
-            "path": "shape-fold-html5",
-            "aliases": [],
-            "categories": []
-        },
-        "Sharkio": {
-            "path": "sharkio",
-            "aliases": [],
-            "categories": []
-        },
-        "Shell Shockers": {
-            "path": "shellshockers",
-            "aliases": [],
-            "categories": []
-        },
-        "Shellshockers": {
-            "path": "shellshockersio",
-            "aliases": [],
-            "categories": []
-        },
-        "Ships 3D": {
-            "path": "ships-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Shoot Stickman": {
-            "path": "shoot-stickman",
-            "aliases": [],
-            "categories": []
-        },
-        "Shootz": {
-            "path": "shootz",
-            "aliases": [],
-            "categories": []
-        },
-        "Short Ride": {
-            "path": "short-ride",
-            "aliases": [],
-            "categories": []
-        },
-        "Sink It": {
-            "path": "sink-it",
-            "aliases": [],
-            "categories": []
-        },
-        "Skibidi Shooter": {
-            "path": "skibidi-shooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Skibidi Toilet Attack": {
-            "path": "skibidi-toilet-attack",
-            "aliases": [],
-            "categories": []
-        },
-        "Skibidi Toilet Rampage": {
-            "path": "skibidi-toilet-rampage",
-            "aliases": [],
-            "categories": []
-        },
-        "Skiing Fred": {
-            "path": "skiing-fred",
-            "aliases": [],
-            "categories": []
-        },
-        "Skillfite Io": {
-            "path": "skillfite-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Skribbl": {
-            "path": "skribbl",
-            "aliases": [],
-            "categories": []
-        },
-        "Skyblock": {
-            "path": "skyblock",
-            "aliases": [],
-            "categories": []
-        },
-        "Slice Master": {
-            "path": "slice-master",
-            "aliases": [],
-            "categories": []
-        },
-        "Slime Laboratory": {
-            "path": "slime-laboratory",
-            "aliases": [],
-            "categories": []
-        },
-        "Slime Rancher": {
-            "path": "slime-rancher",
-            "aliases": [],
-            "categories": []
-        },
-        "Slime Road": {
-            "path": "slime-road",
-            "aliases": [],
-            "categories": []
-        },
-        "Slime Rush Td": {
-            "path": "slime-rush-td",
-            "aliases": [],
-            "categories": []
-        },
-        "Sling Kong": {
-            "path": "sling-kong",
-            "aliases": [],
-            "categories": []
-        },
-        "Slither": {
-            "path": "slither",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope": {
-            "path": "slope",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope 2": {
-            "path": "slope2",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope 2 Multiplayer": {
-            "path": "slope-2-multiplayer",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope 2 Players": {
-            "path": "slope-2-players",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope 3": {
-            "path": "slope-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope Ball": {
-            "path": "slope-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope City": {
-            "path": "slope-city",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope Game": {
-            "path": "slope-game",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope Tunnel": {
-            "path": "slope-tunnel",
-            "aliases": [],
-            "categories": []
-        },
-        "Slope Two Players Multiplayer": {
-            "path": "slope-two-players-multiplayer",
-            "aliases": [],
-            "categories": []
-        },
-        "Slopey": {
-            "path": "slopey",
-            "aliases": [],
-            "categories": []
-        },
-        "Slow Roads": {
-            "path": "slow-roads",
-            "aliases": [],
-            "categories": []
-        },
-        "Small World Cup": {
-            "path": "small-world-cup",
-            "aliases": [],
-            "categories": []
-        },
-        "Smart Ball": {
-            "path": "smart-ball",
-            "aliases": [],
-            "categories": []
-        },
-        "Smash Karts": {
-            "path": "smash-karts",
-            "aliases": [],
-            "categories": []
-        },
-        "Smash Karts Io": {
-            "path": "smash-karts-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Smashyroad": {
-            "path": "smashyroad",
-            "aliases": [],
-            "categories": []
-        },
-        "Smashy Roads": {
-            "path": "smashy-roads",
-            "aliases": [],
-            "categories": []
-        },
-        "Smashy Roads 2": {
-            "path": "smashy-roads-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob 5": {
-            "path": "snail-bob-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob 6": {
-            "path": "snail-bob-6",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob 8": {
-            "path": "snail-bob-8",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob Fantasy Story": {
-            "path": "snail-bob-fantasy-story",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob Island Story": {
-            "path": "snail-bob-island-story",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob Love Story": {
-            "path": "snail-bob-love-story",
-            "aliases": [],
-            "categories": []
-        },
-        "Snail Bob Winter Story": {
-            "path": "snail-bob-winter-story",
-            "aliases": [],
-            "categories": []
-        },
-        "Snake Io": {
-            "path": "snake-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Snake Is Mlg Edition": {
-            "path": "snake-is-mlg-edition",
-            "aliases": [],
-            "categories": []
-        },
-        "Snay Io Agario": {
-            "path": "snay-io-agario",
-            "aliases": [],
-            "categories": []
-        },
-        "Sniper Shot": {
-            "path": "sniper-shot",
-            "aliases": [],
-            "categories": []
-        },
-        "Sniper Shot Bullet Time": {
-            "path": "sniper-shot-bullet-time",
-            "aliases": [],
-            "categories": []
-        },
-        "Snipey Io": {
-            "path": "snipey-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Snowbattle": {
-            "path": "snowbattle",
-            "aliases": [],
-            "categories": []
-        },
-        "Snow Battle Io": {
-            "path": "snow-battle-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Snow Rider 3D": {
-            "path": "snow-rider-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Snowrider3D": {
-            "path": "snowrider3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Soccer Heads": {
-            "path": "soccer-heads",
-            "aliases": [],
-            "categories": []
-        },
-        "Soccer Random": {
-            "path": "soccer-random",
-            "aliases": [],
-            "categories": []
-        },
-        "Soccer Skills Champions League": {
-            "path": "soccer-skills-champions-league",
-            "aliases": [],
-            "categories": []
-        },
-        "Soccer Skills Euro": {
-            "path": "soccer-skills-euro",
-            "aliases": [],
-            "categories": []
-        },
-        "Soccer Skills Euro Cup 2021": {
-            "path": "soccer-skills-euro-cup-2021",
-            "aliases": [],
-            "categories": []
-        },
-        "Sonic The Hedgehog Remastered": {
-            "path": "sonic-the-hedgehog-remastered",
-            "aliases": [],
-            "categories": []
-        },
-        "Spacehuggers": {
-            "path": "spacehuggers",
-            "aliases": [],
-            "categories": []
-        },
-        "Space Major Miner": {
-            "path": "space-major-miner",
-            "aliases": [],
-            "categories": []
-        },
-        "Spacewaves": {
-            "path": "spacewaves",
-            "aliases": [],
-            "categories": []
-        },
-        "Spidermanvenomsvengence": {
-            "path": "spidermanvenomsvengence",
-            "aliases": [],
-            "categories": []
-        },
-        "Spider Solitaire": {
-            "path": "spider-solitaire",
-            "aliases": [],
-            "categories": []
-        },
-        "Sprinter": {
-            "path": "sprinter",
-            "aliases": [],
-            "categories": []
-        },
-        "Stabfish 2": {
-            "path": "stabfish-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Stabfish Io": {
-            "path": "stabfish-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Stack Bump 3D": {
-            "path": "stack-bump-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Stair Race 3D": {
-            "path": "stair-race-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Starblast Io": {
-            "path": "starblast-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Station Saturn": {
-            "path": "station-saturn",
-            "aliases": [],
-            "categories": []
-        },
-        "Stealing The Diamond": {
-            "path": "stealing-the-diamond",
-            "aliases": [],
-            "categories": []
-        },
-        "Stick Archers Battle": {
-            "path": "stick-archers-battle",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickbattle Lol": {
-            "path": "stickbattle-lol",
-            "aliases": [],
-            "categories": []
-        },
-        "Stick Defenders": {
-            "path": "stick-defenders",
-            "aliases": [],
-            "categories": []
-        },
-        "Stick Duel Battle": {
-            "path": "stick-duel-battle",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Army The Resistance": {
-            "path": "stickman-army-the-resistance",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Boost": {
-            "path": "stickman-boost",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Boost 2": {
-            "path": "stickman-boost-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Crazy Box": {
-            "path": "stickman-crazy-box",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Fighter Mega Brawl": {
-            "path": "stickman-fighter-mega-brawl",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Fight Ragdoll": {
-            "path": "stickman-fight-ragdoll",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Golf": {
-            "path": "stickman-golf",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Hook": {
-            "path": "stickman-hook",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Ragdoll Crash Fun": {
-            "path": "stickman-ragdoll-crash-fun",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickman Warriors": {
-            "path": "stickman-warriors",
-            "aliases": [],
-            "categories": []
-        },
-        "Stick Merge": {
-            "path": "stick-merge",
-            "aliases": [],
-            "categories": []
-        },
-        "Stickslasher": {
-            "path": "stickslasher",
-            "aliases": [],
-            "categories": []
-        },
-        "Stock Car Hero": {
-            "path": "stock-car-hero",
-            "aliases": [],
-            "categories": []
-        },
-        "Stumbleguys": {
-            "path": "stumbleguys",
-            "aliases": [],
-            "categories": []
-        },
-        "Stuntparadise": {
-            "path": "stuntparadise",
-            "aliases": [],
-            "categories": []
-        },
-        "Stupid Zombies 2": {
-            "path": "stupid-zombies-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Style": {
-            "path": "style",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Princess Runner": {
-            "path": "subway-princess-runner",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Runner": {
-            "path": "subway-runner",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers": {
-            "path": "subway-surfers",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers Bali": {
-            "path": "subway-surfers-bali",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers Hawaii": {
-            "path": "subway-surfers-hawaii",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers New York": {
-            "path": "subway-surfers-new-york",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers Ny": {
-            "path": "subway-surfers-ny",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers San Francisco": {
-            "path": "subway-surfers-san-francisco",
-            "aliases": [],
-            "categories": []
-        },
-        "Subway Surfers Zurich": {
-            "path": "subway-surfers-zurich",
-            "aliases": [],
-            "categories": []
-        },
-        "Sugar Shock Io": {
-            "path": "sugar-shock-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Suika": {
-            "path": "suika",
-            "aliases": [],
-            "categories": []
-        },
-        "Suika Game": {
-            "path": "suika-game",
-            "aliases": [],
-            "categories": []
-        },
-        "Sumo Party": {
-            "path": "sumo-party",
-            "aliases": [],
-            "categories": []
-        },
-        "Superautopets": {
-            "path": "superautopets",
-            "aliases": [],
-            "categories": []
-        },
-        "Superbattle 2": {
-            "path": "superbattle-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Superbike Hero": {
-            "path": "superbike-hero",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Bike The Champion": {
-            "path": "super-bike-the-champion",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Falling Fred": {
-            "path": "super-falling-fred",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Fowlst": {
-            "path": "super-fowlst",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Hexbee Merger": {
-            "path": "super-hexbee-merger",
-            "aliases": [],
-            "categories": []
-        },
-        "Superhot": {
-            "path": "superhot",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Liquid Soccer": {
-            "path": "super-liquid-soccer",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Mario 64": {
-            "path": "super-mario-64",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Mario Bros": {
-            "path": "super-mario-bros",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Mx The Champion": {
-            "path": "super-mx-the-champion",
-            "aliases": [],
-            "categories": []
-        },
-        "Supernova": {
-            "path": "supernova",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Santa Kicker": {
-            "path": "super-santa-kicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Superstarcar": {
-            "path": "superstarcar",
-            "aliases": [],
-            "categories": []
-        },
-        "Super Tunnel Rush": {
-            "path": "super-tunnel-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Surviv Io": {
-            "path": "surviv-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Survivor In Rainbow Monster": {
-            "path": "survivor-in-rainbow-monster",
-            "aliases": [],
-            "categories": []
-        },
-        "Swatforce Vs Terrorists": {
-            "path": "swatforce-vs-terrorists",
-            "aliases": [],
-            "categories": []
-        },
-        "Tabletennis": {
-            "path": "tabletennis",
-            "aliases": [],
-            "categories": []
-        },
-        "Table Tennis Ultimate Tournament": {
-            "path": "table-tennis-ultimate-tournament",
-            "aliases": [],
-            "categories": []
-        },
-        "Tag": {
-            "path": "tag",
-            "aliases": [],
-            "categories": []
-        },
-        "Tag 2": {
-            "path": "tag-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Taming Io": {
-            "path": "taming-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Tank Trouble": {
-            "path": "tank-trouble",
-            "aliases": [],
-            "categories": []
-        },
-        "Tank Trouble 2": {
-            "path": "tank-trouble-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Tanuki Sunset": {
-            "path": "tanuki-sunset",
-            "aliases": [],
-            "categories": []
-        },
-        "Tap Tap Shots": {
-            "path": "tap-tap-shots",
-            "aliases": [],
-            "categories": []
-        },
-        "Temple Run 2": {
-            "path": "temple-run-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Tennis Masters": {
-            "path": "tennis-masters",
-            "aliases": [],
-            "categories": []
-        },
-        "Territorial": {
-            "path": "territorial",
-            "aliases": [],
-            "categories": []
-        },
-        "Tetra Blocks": {
-            "path": "tetra-blocks",
-            "aliases": [],
-            "categories": []
-        },
-        "Tetris": {
-            "path": "tetris",
-            "aliases": [],
-            "categories": []
-        },
-        "Tetris 99": {
-            "path": "tetris-99",
-            "aliases": [],
-            "categories": []
-        },
-        "The Backrooms": {
-            "path": "the-backrooms",
-            "aliases": [],
-            "categories": []
-        },
-        "The Backrooms 3D": {
-            "path": "the-backrooms-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "The Bowling Club": {
-            "path": "the-bowling-club",
-            "aliases": [],
-            "categories": []
-        },
-        "The Final Earth": {
-            "path": "the-final-earth",
-            "aliases": [],
-            "categories": []
-        },
-        "The Final Earth 2": {
-            "path": "the-final-earth-2",
-            "aliases": [],
-            "categories": []
-        },
-        "The Fish Master": {
-            "path": "the-fish-master",
-            "aliases": [],
-            "categories": []
-        },
-        "The Heist": {
-            "path": "the-heist",
-            "aliases": [],
-            "categories": []
-        },
-        "The Impossible Quiz": {
-            "path": "the-impossible-quiz",
-            "aliases": [],
-            "categories": []
-        },
-        "The Impossible Quiz 2": {
-            "path": "the-impossible-quiz-2",
-            "aliases": [],
-            "categories": []
-        },
-        "The Little Giant": {
-            "path": "the-little-giant",
-            "aliases": [],
-            "categories": []
-        },
-        "There Is No Game": {
-            "path": "there-is-no-game",
-            "aliases": [],
-            "categories": []
-        },
-        "The Spear Stickman": {
-            "path": "the-spear-stickman",
-            "aliases": [],
-            "categories": []
-        },
-        "The Treasure": {
-            "path": "the-treasure",
-            "aliases": [],
-            "categories": []
-        },
-        "Thumb Fighter": {
-            "path": "thumb-fighter",
-            "aliases": [],
-            "categories": []
-        },
-        "Tictactoe": {
-            "path": "tictactoe",
-            "aliases": [],
-            "categories": []
-        },
-        "Tic Tac What": {
-            "path": "tic-tac-what",
-            "aliases": [],
-            "categories": []
-        },
-        "Timber Man": {
-            "path": "timber-man",
-            "aliases": [],
-            "categories": []
-        },
-        "Time Shooter": {
-            "path": "time-shooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Time Shooter 2": {
-            "path": "time-shooter-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Time Shooter 3": {
-            "path": "time-shooter-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Time Shooter 3 Swat": {
-            "path": "time-shooter-3-swat",
-            "aliases": [],
-            "categories": []
-        },
-        "Tiny Fishing": {
-            "path": "tiny-fishing",
-            "aliases": [],
-            "categories": []
-        },
-        "Tinytown Racing": {
-            "path": "tinytown-racing",
-            "aliases": [],
-            "categories": []
-        },
-        "Tomb Of The Mask": {
-            "path": "tomb-of-the-mask",
-            "aliases": [],
-            "categories": []
-        },
-        "Tomb Runner": {
-            "path": "tomb-runner",
-            "aliases": [],
-            "categories": []
-        },
-        "Top Speed Racing 3D": {
-            "path": "top-speed-racing-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Total Recoil": {
-            "path": "total-recoil",
-            "aliases": [],
-            "categories": []
-        },
-        "Totm": {
-            "path": "totm",
-            "aliases": [],
-            "categories": []
-        },
-        "Touchdowners": {
-            "path": "touchdowners",
-            "aliases": [],
-            "categories": []
-        },
-        "Tower Crash 3D": {
-            "path": "tower-crash-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Tower Defense 2D": {
-            "path": "tower-defense-2d",
-            "aliases": [],
-            "categories": []
-        },
-        "Tower Of Destiny": {
-            "path": "tower-of-destiny",
-            "aliases": [],
-            "categories": []
-        },
-        "Trace": {
-            "path": "trace",
-            "aliases": [],
-            "categories": []
-        },
-        "Traffic Control": {
-            "path": "traffic-control",
-            "aliases": [],
-            "categories": []
-        },
-        "Traffic Escape": {
-            "path": "traffic-escape",
-            "aliases": [],
-            "categories": []
-        },
-        "Trafficmania": {
-            "path": "trafficmania",
-            "aliases": [],
-            "categories": []
-        },
-        "Traffic Rider": {
-            "path": "traffic-rider",
-            "aliases": [],
-            "categories": []
-        },
-        "Traffic Run": {
-            "path": "traffic-run",
-            "aliases": [],
-            "categories": []
-        },
-        "Traffic Rush": {
-            "path": "traffic-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Tribals Io": {
-            "path": "tribals-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Tricksplit": {
-            "path": "tricksplit",
-            "aliases": [],
-            "categories": []
-        },
-        "Tricksplit Io": {
-            "path": "tricksplit-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Truck Loader 2": {
-            "path": "truck-loader-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Truck Loader 5": {
-            "path": "truck-loader-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Truck Traffic": {
-            "path": "truck-traffic",
-            "aliases": [],
-            "categories": []
-        },
-        "Tube Clicker": {
-            "path": "tube-clicker",
-            "aliases": [],
-            "categories": []
-        },
-        "Tube Jumpers": {
-            "path": "tube-jumpers",
-            "aliases": [],
-            "categories": []
-        },
-        "Tunnel Rush": {
-            "path": "tunnel-rush",
-            "aliases": [],
-            "categories": []
-        },
-        "Tunnel Rush 2": {
-            "path": "tunnel-rush-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Turn Turn": {
-            "path": "turn-turn",
-            "aliases": [],
-            "categories": []
-        },
-        "Two Ball 3D": {
-            "path": "two-ball-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Two Ball 3D Dark": {
-            "path": "two-ball-3d-dark",
-            "aliases": [],
-            "categories": []
-        },
-        "Two Neon Boxes": {
-            "path": "two-neon-boxes",
-            "aliases": [],
-            "categories": []
-        },
-        "Two Tunnel 3D": {
-            "path": "two-tunnel-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Ultimate Offroad Simulator": {
-            "path": "ultimate-offroad-simulator",
-            "aliases": [],
-            "categories": []
-        },
-        "Uno": {
-            "path": "uno",
-            "aliases": [],
-            "categories": []
-        },
-        "Uno 4 Colors Multiplayer": {
-            "path": "uno-4-colors-multiplayer",
-            "aliases": [],
-            "categories": []
-        },
-        "Venge": {
-            "path": "venge",
-            "aliases": [],
-            "categories": []
-        },
-        "Venge Io": {
-            "path": "venge-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-3": {
-            "path": "vex-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-4": {
-            "path": "vex-4",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-5": {
-            "path": "vex-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-6": {
-            "path": "vex-6",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-7": {
-            "path": "vex-7",
-            "aliases": [],
-            "categories": []
-        },
-        "Vex-8": {
-            "path": "vex-8",
-            "aliases": [],
-            "categories": []
-        },
-        "Village Craft": {
-            "path": "village-craft",
-            "aliases": [],
-            "categories": []
-        },
-        "Volleyball-Challenge": {
-            "path": "volleyball-challenge",
-            "aliases": [],
-            "categories": []
-        },
-        "Volley-Random": {
-            "path": "volley-random",
-            "aliases": [],
-            "categories": []
-        },
-        "Voxiom Io": {
-            "path": "voxiom-io",
-            "aliases": [],
-            "categories": []
-        },
-        "War Of Caribbean Pirates": {
-            "path": "war-of-caribbean-pirates",
-            "aliases": [],
-            "categories": []
-        },
-        "Water Color Sort": {
-            "path": "water-color-sort",
-            "aliases": [],
-            "categories": []
-        },
-        "Watermelon Game": {
-            "path": "watermelon-game",
-            "aliases": [],
-            "categories": []
-        },
-        "Web Osu": {
-            "path": "web-osu",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheelie Bike": {
-            "path": "wheelie-bike",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 2": {
-            "path": "wheely-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 3": {
-            "path": "wheely-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 4 Time Travel": {
-            "path": "wheely-4-time-travel",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 5": {
-            "path": "wheely-5",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 6 Fairytale": {
-            "path": "wheely-6-fairytale",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 7 Detective": {
-            "path": "wheely-7-detective",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheely 8 Aliens": {
-            "path": "wheely-8-aliens",
-            "aliases": [],
-            "categories": []
-        },
-        "Where Is The Water": {
-            "path": "where-is-the-water",
-            "aliases": [],
-            "categories": []
-        },
-        "Wheres My Cat": {
-            "path": "wheres-my-cat",
-            "aliases": [],
-            "categories": []
-        },
-        "Wizard Mike": {
-            "path": "wizard-mike",
-            "aliases": [],
-            "categories": []
-        },
-        "Wood Blocks 3D": {
-            "path": "wood-blocks-3d",
-            "aliases": [],
-            "categories": []
-        },
-        "Word City Uncrossed": {
-            "path": "word-city-uncrossed",
-            "aliases": [],
-            "categories": []
-        },
-        "Wordle": {
-            "path": "wordle",
-            "aliases": [],
-            "categories": []
-        },
-        "Wordle Infinite": {
-            "path": "wordle-infinite",
-            "aliases": [],
-            "categories": []
-        },
-        "Wordle Plus": {
-            "path": "wordle-plus",
-            "aliases": [],
-            "categories": []
-        },
-        "Word Slide": {
-            "path": "word-slide",
-            "aliases": [],
-            "categories": []
-        },
-        "Words Search Classic Edition": {
-            "path": "words-search-classic-edition",
-            "aliases": [],
-            "categories": []
-        },
-        "Worldg": {
-            "path": "worldg",
-            "aliases": [],
-            "categories": []
-        },
-        "Worlds Hardest Game": {
-            "path": "worlds-hardest-game",
-            "aliases": [],
-            "categories": []
-        },
-        "Worlds Hardest Game 2": {
-            "path": "worlds-hardest-game-2",
-            "aliases": [],
-            "categories": []
-        },
-        "Worlds Hardest Game 3": {
-            "path": "worlds-hardest-game-3",
-            "aliases": [],
-            "categories": []
-        },
-        "Wormate Io": {
-            "path": "wormate-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Wrestle Bros Io": {
-            "path": "wrestle-bros-io",
-            "aliases": [],
-            "categories": []
-        },
-        "X Trench Run": {
-            "path": "x-trench-run",
-            "aliases": [],
-            "categories": []
-        },
-        "X Trial Racing": {
-            "path": "x-trial-racing",
-            "aliases": [],
-            "categories": []
-        },
-        "Yarn Untangle": {
-            "path": "yarn-untangle",
-            "aliases": [],
-            "categories": []
-        },
-        "Yohoho": {
-            "path": "yohoho",
-            "aliases": [],
-            "categories": []
-        },
-        "Yohoho Io": {
-            "path": "yohoho-io",
-            "aliases": [],
-            "categories": []
-        },
-        "Zeepkist Crash 2D": {
-            "path": "zeepkist-crash-2d",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombie Killer": {
-            "path": "zombie-killer",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombie Outbreak Arena": {
-            "path": "zombie-outbreak-arena",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombie Shooter 2D": {
-            "path": "zombie-shooter-2d",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombie Siege Outbreak": {
-            "path": "zombie-siege-outbreak",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombocalypse": {
-            "path": "zombocalypse",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombocalypse Shooter": {
-            "path": "zombocalypse-shooter",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombotag": {
-            "path": "zombotag",
-            "aliases": [],
-            "categories": []
-        },
-        "Zombsroyale": {
-            "path": "zombsroyale",
-            "aliases": [],
-            "categories": []
-        }
+  "games": {
+    "2048": {
+      "path": "2048",
+      "aliases": [],
+      "categories": []
     },
-    "themes": {
-        // coming soon
+    "10 Minutes Till Dawn": {
+      "path": "10-minutes-till-dawn",
+      "aliases": [],
+      "categories": []
     },
-    "config": {
-        "proxy": true, // proxy only works when self-hosted
-        "proxyPath": "https://monkey.nordparrot.ro" // absolute ...; proxy must be set to true for this setting to have any effect.
-        // if you are using VioletGG2, all you need to do set proxy to "/proxy.html"
+    "1010 Color Match": {
+      "path": "1010-color-match",
+      "aliases": [],
+      "categories": []
+    },
+    "18 Wheeler Cargo Simulator": {
+      "path": "18-wheeler-cargo-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "3D Bowling": {
+      "path": "3d-bowling",
+      "aliases": [],
+      "categories": []
+    },
+    "3D Free Kick": {
+      "path": "3d-free-kick",
+      "aliases": [],
+      "categories": []
+    },
+    "X Trial Racing": {
+      "path": "x-trial-racing",
+      "aliases": [],
+      "categories": []
+    },
+    "3 Pandas In Japan": {
+      "path": "3-pandas-in-japan",
+      "aliases": [],
+      "categories": []
+    },
+    "4X4 Drive Offroad": {
+      "path": "4X4-drive-offroad",
+      "aliases": [],
+      "categories": []
+    },
+    "99 Balls": {
+      "path": "99-balls",
+      "aliases": [],
+      "categories": []
+    },
+    "Abandoned": {
+      "path": "abandoned",
+      "aliases": [],
+      "categories": []
+    },
+    "Abandoned 2": {
+      "path": "abandoned-2",
+      "aliases": [],
+      "categories": []
+    },
+    "A Dance Of Fire And Ice": {
+      "path": "a-dance-of-fire-and-ice",
+      "aliases": [],
+      "categories": []
+    },
+    "A Dark Room": {
+      "path": "a-dark-room",
+      "aliases": [],
+      "categories": []
+    },
+    "Achievement-Unlocked": {
+      "path": "achievement-unlocked",
+      "aliases": [],
+      "categories": []
+    },
+    "Adam And Eve 5 Part 2": {
+      "path": "adam-and-eve-5-part-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Adam And Eve 5 Part One": {
+      "path": "adam-and-eve-5-part-one",
+      "aliases": [],
+      "categories": []
+    },
+    "Adam And Eve 6": {
+      "path": "adam-and-eve-6",
+      "aliases": [],
+      "categories": []
+    },
+    "Adam And Eve 7": {
+      "path": "adam-and-eve-7",
+      "aliases": [],
+      "categories": []
+    },
+    "Adventure Drivers": {
+      "path": "adventure-drivers",
+      "aliases": [],
+      "categories": []
+    },
+    "Agar": {
+      "path": "agar",
+      "aliases": [],
+      "categories": []
+    },
+    "Age Of War": {
+      "path": "age-of-war",
+      "aliases": [],
+      "categories": []
+    },
+    "Ages Of Conflict": {
+      "path": "ages-of-conflict",
+      "aliases": [],
+      "categories": []
+    },
+    "Aground": {
+      "path": "aground",
+      "aliases": [],
+      "categories": []
+    },
+    "A Little To The Left": {
+      "path": "ma",
+      "aliases": [],
+      "categories": []
+    },
+    "Alien Hominid": {
+      "path": "alien-hominid",
+      "aliases": [],
+      "categories": []
+    },
+    "Amidst The Sky": {
+      "path": "amidst-the-sky",
+      "aliases": [],
+      "categories": []
+    },
+    "Amo Gus Io": {
+      "path": "amogus-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Among Us": {
+      "path": "among-us",
+      "aliases": [],
+      "categories": []
+    },
+    "Amplify Launcher": {
+      "path": "ampler-launcher",
+      "aliases": [],
+      "categories": []
+    },
+    "Angry Sharks": {
+      "path": "angry-sharks",
+      "aliases": [],
+      "categories": []
+    },
+    "Angrybirds": {
+      "path": "angrybirds",
+      "aliases": [],
+      "categories": []
+    },
+    "Angry Gran Run": {
+      "path": "angry-gran-run",
+      "aliases": [],
+      "categories": []
+    },
+    "Another Gentlemans Adventure": {
+      "path": "another-gentlemans-adventure",
+      "aliases": [],
+      "categories": []
+    },
+    "Aquapark Io": {
+      "path": "aquapark-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Archery World Tour": {
+      "path": "archery-world-tour",
+      "aliases": [],
+      "categories": []
+    },
+    "Arcane-Archer": {
+      "path": "arcane-archer",
+      "aliases": [],
+      "categories": []
+    },
+    "Arras": {
+      "path": "arras",
+      "aliases": [],
+      "categories": []
+    },
+    "Aspiring-Artist": {
+      "path": "aspiring-artist",
+      "aliases": [],
+      "categories": []
+    },
+    "Astray": {
+      "path": "astray",
+      "aliases": [],
+      "categories": []
+    },
+    "Awesome-Tanks": {
+      "path": "awesome-tanks",
+      "aliases": [],
+      "categories": []
+    },
+    "Awesome-Tanks-2": {
+      "path": "awesome-tanks-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Babel-Tower": {
+      "path": "babel-tower",
+      "aliases": [],
+      "categories": []
+    },
+    "Backflipper": {
+      "path": "backflipper",
+      "aliases": [],
+      "categories": []
+    },
+    "Backrooms": {
+      "path": "backrooms",
+      "aliases": [],
+      "categories": []
+    },
+    "Backrooms-2D": {
+      "path": "backrooms-2d",
+      "aliases": [],
+      "categories": []
+    },
+    "Bacon-May-Die": {
+      "path": "bacon-may-die",
+      "aliases": [],
+      "categories": []
+    },
+    "Bad-Egg-Io": {
+      "path": "bad-egg-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Bad Ice Cream": {
+      "path": "bad-ice-cream",
+      "aliases": [],
+      "categories": []
+    },
+    "Bad Ice Cream 2": {
+      "path": "bad-ice-cream-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Bad Ice Cream 3": {
+      "path": "bad-ice-cream-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Baldis Basics": {
+      "path": "baldis-basics",
+      "aliases": [],
+      "categories": []
+    },
+    "Baldis Basics Field Trip": {
+      "path": "baldis-basics-field-trip",
+      "aliases": [],
+      "categories": []
+    },
+    "Ballistic": {
+      "path": "ballistic",
+      "aliases": [],
+      "categories": []
+    },
+    "Ball Sort Halloween": {
+      "path": "ball-sort-halloween",
+      "aliases": [],
+      "categories": []
+    },
+    "Ball Sort Soccer": {
+      "path": "ball-sort-soccer",
+      "aliases": [],
+      "categories": []
+    },
+    "Basket & Ball": {
+      "path": "basket-and-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Basketball Legends": {
+      "path": "basketball-legends",
+      "aliases": [],
+      "categories": []
+    },
+    "Basketball Stars": {
+      "path": "basketball-stars",
+      "aliases": [],
+      "categories": []
+    },
+    "Basketbros Io": {
+      "path": "basketbros-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Basket Random": {
+      "path": "basket-random",
+      "aliases": [],
+      "categories": []
+    },
+    "Battledudes Io": {
+      "path": "battledudes-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Betrayal Io": {
+      "path": "betrayal-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Big Tower Tiny Square": {
+      "path": "big-tower-tiny-square",
+      "aliases": [],
+      "categories": []
+    },
+    "Biker Street": {
+      "path": "biker-street",
+      "aliases": [],
+      "categories": []
+    },
+    "Bite": {
+      "path": "bite",
+      "aliases": [],
+      "categories": []
+    },
+    "Bit Life": {
+      "path": "bit-life",
+      "aliases": [],
+      "categories": []
+    },
+    "Blockblast": {
+      "path": "blockblast",
+      "aliases": [],
+      "categories": []
+    },
+    "Blocky-Snakes": {
+      "path": "blocky-snakes",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloonstd": {
+      "path": "bloonstd",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloonstd2": {
+      "path": "bloonstd2",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloonstd3": {
+      "path": "bloonstd3",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloonstd4": {
+      "path": "bloonstd4",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloxorz": {
+      "path": "bloxorz",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloomgi Bloom": {
+      "path": "bloomgi-bloom",
+      "aliases": [],
+      "categories": []
+    },
+    "Blueblim-Bloom": {
+      "path": "blumgi-bloom",
+      "aliases": [],
+      "categories": []
+    },
+    "Blumgi Rocket": {
+      "path": "blumgi-rocket",
+      "aliases": [],
+      "categories": []
+    },
+    "Blumgi Slime": {
+      "path": "blumgi-slime",
+      "aliases": [],
+      "categories": []
+    },
+    "Blockpost": {
+      "path": "blockpost",
+      "aliases": [],
+      "categories": []
+    },
+    "Block-Tanks": {
+      "path": "block-tanks",
+      "aliases": [],
+      "categories": []
+    },
+    "Block-The-Pig": {
+      "path": "block-the-pig",
+      "aliases": [],
+      "categories": []
+    },
+    "Block World": {
+      "path": "block-world",
+      "aliases": [],
+      "categories": []
+    },
+    "Bounceback": {
+      "path": "bounceback",
+      "aliases": [],
+      "categories": []
+    },
+    "Bowmasters": {
+      "path": "bowmasters",
+      "aliases": [],
+      "categories": []
+    },
+    "Boxing-Physics 2": {
+      "path": "boxing-physics-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Boxing Random": {
+      "path": "boxing-random",
+      "aliases": [],
+      "categories": []
+    },
+    "Braains Io": {
+      "path": "braains-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Brawlstars": {
+      "path": "brawlstars",
+      "aliases": [],
+      "categories": []
+    },
+    "Brawl Stars Project Laser": {
+      "path": "brawl-stars-project-laser",
+      "aliases": [],
+      "categories": []
+    },
+    "Breaking the Bank": {
+      "path": "breaking-the-bank",
+      "aliases": [],
+      "categories": []
+    },
+    "Breakingthebank": {
+      "path": "breakingthebank",
+      "aliases": [],
+      "categories": []
+    },
+    "Breaklock": {
+      "path": "breaklock",
+      "aliases": [],
+      "categories": []
+    },
+    "Browserfps Com": {
+      "path": "browserfps-com",
+      "aliases": [],
+      "categories": []
+    },
+    "Btd5": {
+      "path": "btd5",
+      "aliases": [],
+      "categories": []
+    },
+    "Btd6": {
+      "path": "btd6",
+      "aliases": [],
+      "categories": []
+    },
+    "Bubble Pop Adventures": {
+      "path": "bubble-pop-adventures",
+      "aliases": [],
+      "categories": []
+    },
+    "Buckshot": {
+      "path": "buckshot",
+      "aliases": [],
+      "categories": []
+    },
+    "Buildnowgg": {
+      "path": "buildnowgg",
+      "aliases": [],
+      "categories": []
+    },
+    "Bullet Force": {
+      "path": "bullet-force",
+      "aliases": [],
+      "categories": []
+    },
+    "Bullet Party 2": {
+      "path": "bullet-party-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Burger Clicker": {
+      "path": "burger-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Burrito Bison": {
+      "path": "burrito-bison",
+      "aliases": [],
+      "categories": []
+    },
+    "Burrito Bison Launcha Libre": {
+      "path": "burrito-bison-launcha-libre",
+      "aliases": [],
+      "categories": []
+    },
+    "Candy Crush Saga": {
+      "path": "candy-crush-saga",
+      "aliases": [],
+      "categories": []
+    },
+    "Cannon Basketball 4": {
+      "path": "cannon-basketball-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Car Rush": {
+      "path": "car-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Cars Simulator": {
+      "path": "cars-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Case Clicker": {
+      "path": "case-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Cat Gunner Super Zombie Shoot": {
+      "path": "cat-gunner-super-zombie-shoot",
+      "aliases": [],
+      "categories": []
+    },
+    "Cats": {
+      "path": "cats",
+      "aliases": [],
+      "categories": []
+    },
+    "Checkers": {
+      "path": "checkers",
+      "aliases": [],
+      "categories": []
+    },
+    "Chicken Merge": {
+      "path": "chicken-merge",
+      "aliases": [],
+      "categories": []
+    },
+    "Choppy Orc": {
+      "path": "choppy-orc",
+      "aliases": [],
+      "categories": []
+    },
+    "Chrome Dino": {
+      "path": "chrome-dino",
+      "aliases": [],
+      "categories": []
+    },
+    "Circlo0": {
+      "path": "circlo0",
+      "aliases": [],
+      "categories": []
+    },
+    "City Coach Bus Sim": {
+      "path": "city-coach-bus-sim",
+      "aliases": [],
+      "categories": []
+    },
+    "Clash Royale": {
+      "path": "clash-royale",
+      "aliases": [],
+      "categories": []
+    },
+    "Clicker Heroes": {
+      "path": "clicker-heroes",
+      "aliases": [],
+      "categories": []
+    },
+    "Clicker Heroes Updated": {
+      "path": "clicker-heroes-updated",
+      "aliases": [],
+      "categories": []
+    },
+    "Climb Over It": {
+      "path": "climb-over-it",
+      "aliases": [],
+      "categories": []
+    },
+    "Connect 3": {
+      "path": "connect-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Conways Game Of Life": {
+      "path": "conways-game-of-life",
+      "aliases": [],
+      "categories": []
+    },
+    "Cookie Clicker": {
+      "path": "cookie-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Core Ball": {
+      "path": "core-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Craftmine": {
+      "path": "craftmine",
+      "aliases": [],
+      "categories": []
+    },
+    "Crazy Cars": {
+      "path": "crazy-cars",
+      "aliases": [],
+      "categories": []
+    },
+    "Crazygames": {
+      "path": "crazygames",
+      "aliases": [],
+      "categories": []
+    },
+    "Crazy Tunnel 3D": {
+      "path": "crazy-tunel-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Creative Kill Chamber": {
+      "path": "creative-kill-chamber",
+      "aliases": [],
+      "categories": []
+    },
+    "Creativekillchamber": {
+      "path": "creativekillchamber",
+      "aliases": [],
+      "categories": []
+    },
+    "Crossy Road": {
+      "path": "crossy-road",
+      "aliases": [],
+      "categories": []
+    },
+    "Crusherclicker": {
+      "path": "crusherclicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Csgo Clicker": {
+      "path": "csgo-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Cubeshot Io": {
+      "path": "cubeshot-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Cupcakes 2048": {
+      "path": "cupcakes-2048",
+      "aliases": [],
+      "categories": []
+    },
+    "Cut The Rope": {
+      "path": "cut-the-rope",
+      "aliases": [],
+      "categories": []
+    },
+    "Dadish": {
+      "path": "dadish",
+      "aliases": [],
+      "categories": []
+    },
+    "Dadish 2": {
+      "path": "dadish-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Dadish 3": {
+      "path": "dadish-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Dance": {
+      "path": "dance",
+      "aliases": [],
+      "categories": []
+    },
+    "Dark Ninja": {
+      "path": "dark-ninja",
+      "aliases": [],
+      "categories": []
+    },
+    "Dashcraft Io": {
+      "path": "dashcraft-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Dead Again": {
+      "path": "dead-again",
+      "aliases": [],
+      "categories": []
+    },
+    "Dead Plate": {
+      "path": "dead-plate",
+      "aliases": [],
+      "categories": []
+    },
+    "Deadshot Io": {
+      "path": "deadshot-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Deal Or No Deal": {
+      "path": "deal-or-no-deal",
+      "aliases": [],
+      "categories": []
+    },
+    "Deathcar Io": {
+      "path": "deathcar-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Death-Run 3D": {
+      "path": "death-run-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Deepest Sword": {
+      "path": "deepest-sword",
+      "aliases": [],
+      "categories": []
+    },
+    "Diebrary": {
+      "path": "diebrary",
+      "aliases": [],
+      "categories": []
+    },
+    "Dieeeeeep": {
+      "path": "dieeeeeep",
+      "aliases": [],
+      "categories": []
+    },
+    "Diggy": {
+      "path": "diggy",
+      "aliases": [],
+      "categories": []
+    },
+    "Dino Chrome Io": {
+      "path": "dino-chrome-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Dinosaurs Merge Master": {
+      "path": "dinosaurs-merge-master",
+      "aliases": [],
+      "categories": []
+    },
+    "Doge Miner": {
+      "path": "doge-miner",
+      "aliases": [],
+      "categories": []
+    },
+    "Doodle Jump": {
+      "path": "doodle-jump",
+      "aliases": [],
+      "categories": []
+    },
+    "Dots And Boxes": {
+      "path": "dots-and-boxes",
+      "aliases": [],
+      "categories": []
+    },
+    "Down The Hill": {
+      "path": "down-the-hill",
+      "aliases": [],
+      "categories": []
+    },
+    "Dreadhead Parkour": {
+      "path": "dreadhead-parkour",
+      "aliases": [],
+      "categories": []
+    },
+    "Drift Boss": {
+      "path": "drift-boss",
+      "aliases": [],
+      "categories": []
+    },
+    "Drift Hunters": {
+      "path": "drift-hunters",
+      "aliases": [],
+      "categories": []
+    },
+    "Drive Mad": {
+      "path": "drive-mad",
+      "aliases": [],
+      "categories": []
+    },
+    "Drive Mad S": {
+      "path": "drive-mad-s",
+      "aliases": [],
+      "categories": []
+    },
+    "Ducklife": {
+      "path": "ducklife",
+      "aliases": [],
+      "categories": []
+    },
+    "Ducklife2": {
+      "path": "ducklife2",
+      "aliases": [],
+      "categories": []
+    },
+    "Ducklife3": {
+      "path": "ducklife3",
+      "aliases": [],
+      "categories": []
+    },
+    "Duck Life 4": {
+      "path": "duck-life-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Duke Dashington Remastered": {
+      "path": "duke-dashington-remastered",
+      "aliases": [],
+      "categories": []
+    },
+    "Dune": {
+      "path": "dune",
+      "aliases": [],
+      "categories": []
+    },
+    "Dunkers 2": {
+      "path": "dunkers-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Eggy Car": {
+      "path": "eggy-car",
+      "aliases": [],
+      "categories": []
+    },
+    "Elastic Man": {
+      "path": "elastic-man",
+      "aliases": [],
+      "categories": []
+    },
+    "Electron Dash": {
+      "path": "electron-dash",
+      "aliases": [],
+      "categories": []
+    },
+    "Endless Tunnel": {
+      "path": "endless-tunnel",
+      "aliases": [],
+      "categories": []
+    },
+    "Endless War 3": {
+      "path": "endless-war-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Eparkour Io": {
+      "path": "eparkour-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Escape Road": {
+      "path": "escape-road",
+      "aliases": [],
+      "categories": []
+    },
+    "Ev Io": {
+      "path": "ev-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Evowars": {
+      "path": "evowars",
+      "aliases": [],
+      "categories": []
+    },
+    "Fallenlondon": {
+      "path": "fallenlondon",
+      "aliases": [],
+      "categories": []
+    },
+    "Fall Guys Ultimate Knockout": {
+      "path": "fall-guys-ultimate-knockout",
+      "aliases": [],
+      "categories": []
+    },
+    "Falling Fred": {
+      "path": "falling-fred",
+      "aliases": [],
+      "categories": []
+    },
+    "Family Feud": {
+      "path": "family-feud",
+      "aliases": [],
+      "categories": []
+    },
+    "Farm Match Seasons": {
+      "path": "farm-match-seasons",
+      "aliases": [],
+      "categories": []
+    },
+    "Fc": {
+      "path": "fc",
+      "aliases": [],
+      "categories": []
+    },
+    "Fc 25": {
+      "path": "fc-25",
+      "aliases": [],
+      "categories": []
+    },
+    "Ferge Io": {
+      "path": "ferge-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Fightz Io": {
+      "path": "fightz-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl": {
+      "path": "fireboy-and-watergirl",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl 2": {
+      "path": "fireboy-and-watergirl-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl 3": {
+      "path": "fireboy-and-watergirl-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl 4": {
+      "path": "fireboy-and-watergirl-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl 6": {
+      "path": "fireboy-and-watergirl-6",
+      "aliases": [],
+      "categories": []
+    },
+    "Fireboy And Watergirl Forest Temple": {
+      "path": "fireboy-and-watergirl-forest-temple",
+      "aliases": [],
+      "categories": []
+    },
+    "Fire Truck Rescue": {
+      "path": "fire-truck-rescue",
+      "aliases": [],
+      "categories": []
+    },
+    "Fishing And Lines": {
+      "path": "fishing-and-lines",
+      "aliases": [],
+      "categories": []
+    },
+    "Fishing Frenzy": {
+      "path": "fishing-frenzy",
+      "aliases": [],
+      "categories": []
+    },
+    "Five Nights At Freddies 2": {
+      "path": "five-nights-at-freddies-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Five Nights At Freddys 3": {
+      "path": "five-nights-at-freddys-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Flappy Bird": {
+      "path": "flappy-bird",
+      "aliases": [],
+      "categories": []
+    },
+    "Flash": {
+      "path": "flash",
+      "aliases": [],
+      "categories": []
+    },
+    "Flip Bottle": {
+      "path": "flip-bottle",
+      "aliases": [],
+      "categories": []
+    },
+    "Fnaf 2": {
+      "path": "fnaf-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Fnaf 4": {
+      "path": "fnaf-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Fnaf Shooter": {
+      "path": "fnaf-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Fnaf Web": {
+      "path": "fnaf-web",
+      "aliases": [],
+      "categories": []
+    },
+    "Fnf Online": {
+      "path": "fnf-online",
+      "aliases": [],
+      "categories": []
+    },
+    "Football Run": {
+      "path": "football-run",
+      "aliases": [],
+      "categories": []
+    },
+    "Football Strike": {
+      "path": "football-strike",
+      "aliases": [],
+      "categories": []
+    },
+    "Fortnight": {
+      "path": "fortnight",
+      "aliases": [],
+      "categories": []
+    },
+    "Fortnite Made In China": {
+      "path": "fortnite-made-in-china",
+      "aliases": [],
+      "categories": []
+    },
+    "Fred Running": {
+      "path": "fred-running",
+      "aliases": [],
+      "categories": []
+    },
+    "Free Kick Classic": {
+      "path": "free-kick-classic",
+      "aliases": [],
+      "categories": []
+    },
+    "Friday Night Funkin": {
+      "path": "friday-night-funkin",
+      "aliases": [],
+      "categories": []
+    },
+    "Funnyshooter": {
+      "path": "funnyshooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Funny Shooter 3D": {
+      "path": "funny-shooter-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Funny Shooter Destroy All": {
+      "path": "funny-shooter-destroy-all",
+      "aliases": [],
+      "categories": []
+    },
+    "Gartic Io": {
+      "path": "gartic-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Gartic Phone Io": {
+      "path": "gartic-phone-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Geodash": {
+      "path": "geodash",
+      "aliases": [],
+      "categories": []
+    },
+    "Geodash 2": {
+      "path": "geodash-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Geofs": {
+      "path": "geofs",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Dash": {
+      "path": "geometrydash",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Dash 2": {
+      "path": "geometrydash2",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Dash Lite": {
+      "path": "geometry-dash-lite",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Dash Remastered": {
+      "path": "geometry-dash-remastered",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Monster Shell Shockers": {
+      "path": "geometry-monster-shell-shockers",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Vibes": {
+      "path": "geometry-vibes",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Vibes Monster": {
+      "path": "geometry-vibes-monster",
+      "aliases": [],
+      "categories": []
+    },
+    "Geometry Vibes X Ball": {
+      "path": "geometry-vibes-x-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Getaway Shootout": {
+      "path": "getaway-shootout",
+      "aliases": [],
+      "categories": []
+    },
+    "Get On Top": {
+      "path": "get-on-top",
+      "aliases": [],
+      "categories": []
+    },
+    "Getting Over It": {
+      "path": "getting-over-it",
+      "aliases": [],
+      "categories": []
+    },
+    "Gigga Io": {
+      "path": "gigga-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Gladi": {
+      "path": "gladi",
+      "aliases": [],
+      "categories": []
+    },
+    "Gobdun": {
+      "path": "gobdun",
+      "aliases": [],
+      "categories": []
+    },
+    "Gold Digger Frvr": {
+      "path": "gold-digger-frvr",
+      "aliases": [],
+      "categories": []
+    },
+    "Gons Io": {
+      "path": "gons-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Google Snake": {
+      "path": "google-snake",
+      "aliases": [],
+      "categories": []
+    },
+    "Grand Vegas Simulator": {
+      "path": "grand-vegas-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Granny": {
+      "path": "granny",
+      "aliases": [],
+      "categories": []
+    },
+    "Gravity Soccer": {
+      "path": "gravity-soccer",
+      "aliases": [],
+      "categories": []
+    },
+    "Grindcraft Remastered": {
+      "path": "grindcraft-remastered",
+      "aliases": [],
+      "categories": []
+    },
+    "Gswitch": {
+      "path": "gswitch",
+      "aliases": [],
+      "categories": []
+    },
+    "Gswitch 2": {
+      "path": "gswitch-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Gswitch 3": {
+      "path": "gswitch-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Gswitch 4": {
+      "path": "gswitch-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Gta": {
+      "path": "gta",
+      "aliases": [],
+      "categories": []
+    },
+    "Gulper Io": {
+      "path": "gulper-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Gun Mayhem 2": {
+      "path": "gunmayhem2",
+      "aliases": [],
+      "categories": []
+    },
+    "Gun Mayhem Redux": {
+      "path": "gunmayhemredux",
+      "aliases": [],
+      "categories": []
+    },
+    "Gun Spin": {
+      "path": "gunspin",
+      "aliases": [],
+      "categories": []
+    },
+    "Guymayhem": {
+      "path": "guymayhem",
+      "aliases": [],
+      "categories": []
+    },
+    "Hammer 2": {
+      "path": "hammer-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Hammer 2 Reloaded": {
+      "path": "hammer-2-reloaded",
+      "aliases": [],
+      "categories": []
+    },
+    "Hanger": {
+      "path": "hanger",
+      "aliases": [],
+      "categories": []
+    },
+    "Hanger 2": {
+      "path": "hanger-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Happy Fishing": {
+      "path": "happy-fishing",
+      "aliases": [],
+      "categories": []
+    },
+    "Happy Wheels": {
+      "path": "happy-wheels",
+      "aliases": [],
+      "categories": []
+    },
+    "Head Soccer 2023": {
+      "path": "head-soccer-2023",
+      "aliases": [],
+      "categories": []
+    },
+    "Hep": {
+      "path": "hep",
+      "aliases": [],
+      "categories": []
+    },
+    "Hexa": {
+      "path": "hexa",
+      "aliases": [],
+      "categories": []
+    },
+    "Hexanaut Io": {
+      "path": "hexanaut-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Hexbee Merger": {
+      "path": "hexbee-merger",
+      "aliases": [],
+      "categories": []
+    },
+    "Hextris": {
+      "path": "hextris",
+      "aliases": [],
+      "categories": []
+    },
+    "Hide And Smash": {
+      "path": "hide-and-smash",
+      "aliases": [],
+      "categories": []
+    },
+    "Highway Race 2": {
+      "path": "highway-race2",
+      "aliases": [],
+      "categories": []
+    },
+    "Highway Racer": {
+      "path": "highway-racer",
+      "aliases": [],
+      "categories": []
+    },
+    "Hill Climb Racing 2": {
+      "path": "hill-climb-racing-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Hole Io": {
+      "path": "hole-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Holeio": {
+      "path": "holeio",
+      "aliases": [],
+      "categories": []
+    },
+    "Hop And Pop It": {
+      "path": "hop-and-pop-it",
+      "aliases": [],
+      "categories": []
+    },
+    "House Of Hazards": {
+      "path": "house-of-hazards",
+      "aliases": [],
+      "categories": []
+    },
+    "Houseofhazards": {
+      "path": "houseofhazards",
+      "aliases": [],
+      "categories": []
+    },
+    "Icy Purple Head 2": {
+      "path": "icy-purple-head-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Icy Purple Head 3": {
+      "path": "icy-purple-head-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Breakout": {
+      "path": "idle-breakout",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Light City": {
+      "path": "idle-light-city",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Mining Empire": {
+      "path": "idle-mining-empire",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Restaurants": {
+      "path": "idle-restaurants",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Restaurants Tycoon": {
+      "path": "idle-restaurants-tycoon",
+      "aliases": [],
+      "categories": []
+    },
+    "Idle Tree City": {
+      "path": "idle-tree-city",
+      "aliases": [],
+      "categories": []
+    },
+    "Imposible Monster Truck": {
+      "path": "impossible-monster-truck",
+      "aliases": [],
+      "categories": []
+    },
+    "Incremancer": {
+      "path": "incremancer",
+      "aliases": [],
+      "categories": []
+    },
+    "Indian Truck": {
+      "path": "indian-truck",
+      "aliases": [],
+      "categories": []
+    },
+    "Infinitecraft": {
+      "path": "infinitecraft",
+      "aliases": [],
+      "categories": []
+    },
+    "Infinite Soccer": {
+      "path": "infinite-soccer",
+      "aliases": [],
+      "categories": []
+    },
+    "Iron Snout": {
+      "path": "iron-snout",
+      "aliases": [],
+      "categories": []
+    },
+    "Jelly Drift": {
+      "path": "jelly-drift",
+      "aliases": [],
+      "categories": []
+    },
+    "Jelly Truck": {
+      "path": "jelly-truck",
+      "aliases": [],
+      "categories": []
+    },
+    "Jetpack Joyride": {
+      "path": "jetpack-joyride",
+      "aliases": [],
+      "categories": []
+    },
+    "Jetpack Joyride Browser": {
+      "path": "jetpack-joyride-browser",
+      "aliases": [],
+      "categories": []
+    },
+    "Jewels Blitz 5": {
+      "path": "jewels-blitz-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Johnny Revenge": {
+      "path": "johnny-revenge",
+      "aliases": [],
+      "categories": []
+    },
+    "Johnny Trigger": {
+      "path": "johnny-trigger",
+      "aliases": [],
+      "categories": []
+    },
+    "Johnny Upgrade": {
+      "path": "johnny-upgrade",
+      "aliases": [],
+      "categories": []
+    },
+    "Johny Revenge": {
+      "path": "johny-revenge",
+      "aliases": [],
+      "categories": []
+    },
+    "Johny Trigger": {
+      "path": "johny-trigger",
+      "aliases": [],
+      "categories": []
+    },
+    "Jungle Td": {
+      "path": "jungle-td",
+      "aliases": [],
+      "categories": []
+    },
+    "Jungle Tower Defense": {
+      "path": "jungle-tower-defense",
+      "aliases": [],
+      "categories": []
+    },
+    "Just Fall Lol": {
+      "path": "just-fall-lol",
+      "aliases": [],
+      "categories": []
+    },
+    "Kart Fight Io": {
+      "path": "kart-fight-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Kart Race 3D": {
+      "path": "kart-race-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Kartwars": {
+      "path": "kartwars",
+      "aliases": [],
+      "categories": []
+    },
+    "Kawaii Dressup": {
+      "path": "kawaii-dressup",
+      "aliases": [],
+      "categories": []
+    },
+    "Kirka Io": {
+      "path": "kirka-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Knight Hero Adventure": {
+      "path": "knight-hero-adventure",
+      "aliases": [],
+      "categories": []
+    },
+    "Knight Hero Adventure Rpg": {
+      "path": "knight-hero-adventure-rpg",
+      "aliases": [],
+      "categories": []
+    },
+    "Kour": {
+      "path": "kour",
+      "aliases": [],
+      "categories": []
+    },
+    "Kour Io": {
+      "path": "kour-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Krunker": {
+      "path": "krunker",
+      "aliases": [],
+      "categories": []
+    },
+    "Krunker Io": {
+      "path": "krunker-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Lands Of Blight": {
+      "path": "lands-of-blight",
+      "aliases": [],
+      "categories": []
+    },
+    "Leader Strike": {
+      "path": "leader-strike",
+      "aliases": [],
+      "categories": []
+    },
+    "Learn To Fly": {
+      "path": "learn-to-fly",
+      "aliases": [],
+      "categories": []
+    },
+    "Lethal Sniper 3D Army Soldier": {
+      "path": "lethal-sniper-3d-army-soldier",
+      "aliases": [],
+      "categories": []
+    },
+    "Level Devil": {
+      "path": "level-devil",
+      "aliases": [],
+      "categories": []
+    },
+    "Lion Soldiers Vengence": {
+      "path": "lion-soldiers-vengeance",
+      "aliases": [],
+      "categories": []
+    },
+    "Littlealchemy": {
+      "path": "littlealchemy",
+      "aliases": [],
+      "categories": []
+    },
+    "Littlealchemy2": {
+      "path": "littlealchemy2",
+      "aliases": [],
+      "categories": []
+    },
+    "Little Master Cricket": {
+      "path": "little-master-cricket",
+      "aliases": [],
+      "categories": []
+    },
+    "Lolbeans": {
+      "path": "lolbeans",
+      "aliases": [],
+      "categories": []
+    },
+    "Lolbeans Io": {
+      "path": "lolbeans-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Lol Shot Io": {
+      "path": "lol-shot-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Lovely Fox": {
+      "path": "lovely-fox",
+      "aliases": [],
+      "categories": []
+    },
+    "Ludo Multiplayer": {
+      "path": "ludo-multiplayer",
+      "aliases": [],
+      "categories": []
+    },
+    "Lurkers Io": {
+      "path": "lurkers-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Ma": {
+      "path": "ma",
+      "aliases": [],
+      "categories": []
+    },
+    "Madalin Cars Multiplayer": {
+      "path": "madalin-cars-multiplayer",
+      "aliases": [],
+      "categories": []
+    },
+    "Madalin Stunt Cars 2": {
+      "path": "madalin-stunt-cars-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Madalin Stunt Cars 3": {
+      "path": "madalin-stunt-cars-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Mad Day": {
+      "path": "mad-day",
+      "aliases": [],
+      "categories": []
+    },
+    "Mad Gunz": {
+      "path": "mad-gunz",
+      "aliases": [],
+      "categories": []
+    },
+    "Mad Shark": {
+      "path": "mad-shark",
+      "aliases": [],
+      "categories": []
+    },
+    "Mad Truck Challenge": {
+      "path": "mad-truck-challenge",
+      "aliases": [],
+      "categories": []
+    },
+    "Madzoong": {
+      "path": "madzoong",
+      "aliases": [],
+      "categories": []
+    },
+    "Mafia Wars": {
+      "path": "mafia-wars",
+      "aliases": [],
+      "categories": []
+    },
+    "Maptroid": {
+      "path": "maptroid",
+      "aliases": [],
+      "categories": []
+    },
+    "Marble Dash": {
+      "path": "marble-dash",
+      "aliases": [],
+      "categories": []
+    },
+    "Marbles Sorting": {
+      "path": "marbles-sorting",
+      "aliases": [],
+      "categories": []
+    },
+    "Mario": {
+      "path": "mario",
+      "aliases": [],
+      "categories": []
+    },
+    "Mario-Game": {
+      "path": "mario-game",
+      "aliases": [],
+      "categories": []
+    },
+    "Masked Forces": {
+      "path": "masked-forces",
+      "aliases": [],
+      "categories": []
+    },
+    "Master Checkers": {
+      "path": "master-checkers",
+      "aliases": [],
+      "categories": []
+    },
+    "Maze Path Of Light": {
+      "path": "maze-path-of-light",
+      "aliases": [],
+      "categories": []
+    },
+    "Maze Planet 3D": {
+      "path": "maze-planet-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Melonplayground": {
+      "path": "melonplayground",
+      "aliases": [],
+      "categories": []
+    },
+    "Merc Zone": {
+      "path": "merc-zone",
+      "aliases": [],
+      "categories": []
+    },
+    "Merge Cakes": {
+      "path": "merge-cakes",
+      "aliases": [],
+      "categories": []
+    },
+    "Merge Cyber Racers": {
+      "path": "merge-cyber-racers",
+      "aliases": [],
+      "categories": []
+    },
+    "Merge Harvest": {
+      "path": "merge-harvest",
+      "aliases": [],
+      "categories": []
+    },
+    "Merge Party": {
+      "path": "merge-party",
+      "aliases": [],
+      "categories": []
+    },
+    "Merge Round Racers": {
+      "path": "merge-round-racers",
+      "aliases": [],
+      "categories": []
+    },
+    "Minecraft Builder": {
+      "path": "minecraft-builder",
+      "aliases": [],
+      "categories": []
+    },
+    "Minecraft Case Simulator": {
+      "path": "minecraft-case-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Minecraft Classic": {
+      "path": "minecraft-classic",
+      "aliases": [],
+      "categories": []
+    },
+    "Mine Craftio": {
+      "path": "mine-craftio",
+      "aliases": [],
+      "categories": []
+    },
+    "Minesweeper": {
+      "path": "minesweeper",
+      "aliases": [],
+      "categories": []
+    },
+    "Miniblox": {
+      "path": "miniblox",
+      "aliases": [],
+      "categories": []
+    },
+    "Mob City": {
+      "path": "mob-city",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Movers": {
+      "path": "money-movers",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Movers 2": {
+      "path": "money-movers-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Movers 3": {
+      "path": "money-movers-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Movers Guard Duty": {
+      "path": "money-movers-guard-duty",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Roller": {
+      "path": "money-roller",
+      "aliases": [],
+      "categories": []
+    },
+    "Money Rush": {
+      "path": "money-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Monkey Mart": {
+      "path": "monkey-mart",
+      "aliases": [],
+      "categories": []
+    },
+    "Monsters Wheels Special": {
+      "path": "monsters-wheels-special",
+      "aliases": [],
+      "categories": []
+    },
+    "Monster Truck Racing Arena": {
+      "path": "monster-truck-racing-arena",
+      "aliases": [],
+      "categories": []
+    },
+    "Monster Truck Vs Zombie": {
+      "path": "monster-truck-vs-zombie",
+      "aliases": [],
+      "categories": []
+    },
+    "Moomoo Io Sandbox": {
+      "path": "moomoo-io-sandbox",
+      "aliases": [],
+      "categories": []
+    },
+    "Mosaic Puzzle Art": {
+      "path": "mosaic-puzzle-art",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto Maniac": {
+      "path": "moto-maniac",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto Maniac 2": {
+      "path": "moto-maniac-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto Maniac 3": {
+      "path": "moto-maniac-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto Trial Racing 2": {
+      "path": "moto-trial-racing-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M": {
+      "path": "moto-x3m",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M-3-Pool-Party": {
+      "path": "moto-x3m-3-pool-party",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M4-Winter": {
+      "path": "moto-x3m4-winter",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M-5-Pool-Party": {
+      "path": "moto-x3m-5-pool-party",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M-6-Spooky-Land": {
+      "path": "moto-x3m-6-spooky-land",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto-X3M-Winter": {
+      "path": "moto-x3m-winter",
+      "aliases": [],
+      "categories": []
+    },
+    "Moto3Xm Pool Party": {
+      "path": "moto3xm-pool-party",
+      "aliases": [],
+      "categories": []
+    },
+    "Motox3M": {
+      "path": "motox3m",
+      "aliases": [],
+      "categories": []
+    },
+    "Motox3M Pool": {
+      "path": "motox3m-pool",
+      "aliases": [],
+      "categories": []
+    },
+    "Motox3M2": {
+      "path": "motox3m2",
+      "aliases": [],
+      "categories": []
+    },
+    "Motox3M3": {
+      "path": "motox3m3",
+      "aliases": [],
+      "categories": []
+    },
+    "Motox3M Winter": {
+      "path": "motox3m-winter",
+      "aliases": [],
+      "categories": []
+    },
+    "Moving Truck Bounty": {
+      "path": "moving-truck-bounty",
+      "aliases": [],
+      "categories": []
+    },
+    "Mr Bullet": {
+      "path": "mr-bullet",
+      "aliases": [],
+      "categories": []
+    },
+    "Mutazone": {
+      "path": "mutazone",
+      "aliases": [],
+      "categories": []
+    },
+    "My Perfect Hotel": {
+      "path": "my-perfect-hotel",
+      "aliases": [],
+      "categories": []
+    },
+    "My Pony My Little Race": {
+      "path": "my-pony-my-little-race",
+      "aliases": [],
+      "categories": []
+    },
+    "Mystical Birdlink": {
+      "path": "mystical-birdlink",
+      "aliases": [],
+      "categories": []
+    },
+    "Neon War": {
+      "path": "neon-war",
+      "aliases": [],
+      "categories": []
+    },
+    "N Gon": {
+      "path": "n-gon",
+      "aliases": [],
+      "categories": []
+    },
+    "Nightpoint Io": {
+      "path": "nightpoint-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Ninja Cat Exploit": {
+      "path": "ninja-cat-exploit",
+      "aliases": [],
+      "categories": []
+    },
+    "Noob Hook": {
+      "path": "noob-hook",
+      "aliases": [],
+      "categories": []
+    },
+    "Noob Steve": {
+      "path": "noob-steve",
+      "aliases": [],
+      "categories": []
+    },
+    "Noob Steve Parkour": {
+      "path": "noob-steve-parkour",
+      "aliases": [],
+      "categories": []
+    },
+    "N Step Steve Part 1": {
+      "path": "n-step-steve-part-1",
+      "aliases": [],
+      "categories": []
+    },
+    "N Step Steve Part 2": {
+      "path": "n-step-steve-part-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Nuggetroyale Io": {
+      "path": "nuggetroyale-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Odd Bot Out": {
+      "path": "odd-bot-out",
+      "aliases": [],
+      "categories": []
+    },
+    "Off-Road Rain Cargo Simulator": {
+      "path": "off-road-rain-cargo-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Offroad Ultimate": {
+      "path": "offroad-ultimate",
+      "aliases": [],
+      "categories": []
+    },
+    "Omori": {
+      "path": "omori",
+      "aliases": [],
+      "categories": []
+    },
+    "Onion Boy": {
+      "path": "onion-boy",
+      "aliases": [],
+      "categories": []
+    },
+    "Only Up": {
+      "path": "only-up",
+      "aliases": [],
+      "categories": []
+    },
+    "Only Up 2": {
+      "path": "only-up-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Only Up 3D Parkour": {
+      "path": "only-up-3d-parkour",
+      "aliases": [],
+      "categories": []
+    },
+    "Orbital Survival": {
+      "path": "orbital-survival",
+      "aliases": [],
+      "categories": []
+    },
+    "Ovo": {
+      "path": "ovo",
+      "aliases": [],
+      "categories": []
+    },
+    "Ovo 2 144 Version": {
+      "path": "ovo-2-144-version",
+      "aliases": [],
+      "categories": []
+    },
+    "Ovo 3": {
+      "path": "ovo-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Ovo 3 Dimensions": {
+      "path": "ovo-3-dimensions",
+      "aliases": [],
+      "categories": []
+    },
+    "Pack A Bag": {
+      "path": "pack-a-bag",
+      "aliases": [],
+      "categories": []
+    },
+    "Pacman Remake": {
+      "path": "pacman-remake",
+      "aliases": [],
+      "categories": []
+    },
+    "Paint Strike": {
+      "path": "paint-strike",
+      "aliases": [],
+      "categories": []
+    },
+    "Panda Bubble Shooter": {
+      "path": "panda-bubble-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Panda Simulator 3D": {
+      "path": "panda-simulator-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Papas Burgeria": {
+      "path": "papas-burgeria",
+      "aliases": [],
+      "categories": []
+    },
+    "Papas Freezeria": {
+      "path": "papas-freezeria",
+      "aliases": [],
+      "categories": []
+    },
+    "Papas Pizzaria": {
+      "path": "papas-pizzaria",
+      "aliases": [],
+      "categories": []
+    },
+    "Paper 2 Io": {
+      "path": "paper-2-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Paperio": {
+      "path": "paperio",
+      "aliases": [],
+      "categories": []
+    },
+    "Paperio 2": {
+      "path": "paperio2",
+      "aliases": [],
+      "categories": []
+    },
+    "Papery Planes": {
+      "path": "papery-planes",
+      "aliases": [],
+      "categories": []
+    },
+    "Paperyplanes1": {
+      "path": "paperyplanes1",
+      "aliases": [],
+      "categories": []
+    },
+    "Parenting": {
+      "path": "parenting",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury": {
+      "path": "parking-fury",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 2": {
+      "path": "parking-fury-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 3": {
+      "path": "parking-fury-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 3D": {
+      "path": "parking-fury-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 3D Beach City": {
+      "path": "parking-fury-3d-beach-city",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 3D Bounty Hunter": {
+      "path": "parking-fury-3d-bounty-hunter",
+      "aliases": [],
+      "categories": []
+    },
+    "Parking Fury 3D Night Thief": {
+      "path": "parking-fury-3d-night-thief",
+      "aliases": [],
+      "categories": []
+    },
+    "Parkour Race": {
+      "path": "parkour-race",
+      "aliases": [],
+      "categories": []
+    },
+    "Park Out": {
+      "path": "park-out",
+      "aliases": [],
+      "categories": []
+    },
+    "Particle Clicker": {
+      "path": "particle-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Pcraft": {
+      "path": "pcraft",
+      "aliases": [],
+      "categories": []
+    },
+    "Penalty Kick": {
+      "path": "penalty-kick",
+      "aliases": [],
+      "categories": []
+    },
+    "Penalty Kick Online": {
+      "path": "penalty-kick-online",
+      "aliases": [],
+      "categories": []
+    },
+    "Penalty Shooters 2": {
+      "path": "penalty-shooters-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Penalty Shooters 3": {
+      "path": "penalty-shooters-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Peppa Pig Basketball": {
+      "path": "peppa-pig-basketball",
+      "aliases": [],
+      "categories": []
+    },
+    "Perfect Dunk": {
+      "path": "perfect-dunk",
+      "aliases": [],
+      "categories": []
+    },
+    "Petz Lol": {
+      "path": "petz-lol",
+      "aliases": [],
+      "categories": []
+    },
+    "Ping Pong Chaos": {
+      "path": "ping-pong-chaos",
+      "aliases": [],
+      "categories": []
+    },
+    "Pixel Gun 3D": {
+      "path": "pixel-gun-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Pixel Gun Apocalypse 2": {
+      "path": "pixel-gun-apocalypse-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Pixel Smash Duel": {
+      "path": "pixel-smash-duel",
+      "aliases": [],
+      "categories": []
+    },
+    "Pizza Tower": {
+      "path": "pizza-tower",
+      "aliases": [],
+      "categories": []
+    },
+    "Planet Life": {
+      "path": "planet-life",
+      "aliases": [],
+      "categories": []
+    },
+    "Pokemongames": {
+      "path": "pokemongames",
+      "aliases": [],
+      "categories": []
+    },
+    "Polytrack": {
+      "path": "polytrack",
+      "aliases": [],
+      "categories": []
+    },
+    "Pony Dressup 2": {
+      "path": "pony-dressup-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Pool Club": {
+      "path": "pool-club",
+      "aliases": [],
+      "categories": []
+    },
+    "Poop Clicker 3": {
+      "path": "poop-clicker-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Poor Bunny": {
+      "path": "poor-bunny",
+      "aliases": [],
+      "categories": []
+    },
+    "Pop It Master": {
+      "path": "pop-it-master",
+      "aliases": [],
+      "categories": []
+    },
+    "Pou": {
+      "path": "pou",
+      "aliases": [],
+      "categories": []
+    },
+    "President-Simulator": {
+      "path": "president-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Prismo Coloring": {
+      "path": "prismo-coloring",
+      "aliases": [],
+      "categories": []
+    },
+    "Progress Knight Quest": {
+      "path": "progress-knight-quest",
+      "aliases": [],
+      "categories": []
+    },
+    "Progress Knight Reborn": {
+      "path": "progress-knight-reborn",
+      "aliases": [],
+      "categories": []
+    },
+    "Pudding Monsters": {
+      "path": "pudding-monsters",
+      "aliases": [],
+      "categories": []
+    },
+    "Pull Of War": {
+      "path": "pull-of-war",
+      "aliases": [],
+      "categories": []
+    },
+    "Push The Box": {
+      "path": "push-the-box",
+      "aliases": [],
+      "categories": []
+    },
+    "Push The Box 3D": {
+      "path": "push-the-box-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Rabbit Samurai": {
+      "path": "rabbit-samurai",
+      "aliases": [],
+      "categories": []
+    },
+    "Rabbit Samurai 2": {
+      "path": "rabbit-samurai-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Racesurvival": {
+      "path": "racesurvival",
+      "aliases": [],
+      "categories": []
+    },
+    "Raft Wars": {
+      "path": "raft-wars",
+      "aliases": [],
+      "categories": []
+    },
+    "Raft Wars 2": {
+      "path": "raft-wars-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Raft Warz 2": {
+      "path": "raft-warz-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Ragdoll Archers": {
+      "path": "ragdoll-archers",
+      "aliases": [],
+      "categories": []
+    },
+    "Ragdoll Archers Crazygames": {
+      "path": "ragdoll-archers-crazygames",
+      "aliases": [],
+      "categories": []
+    },
+    "Ragdoll Hit": {
+      "path": "ragdoll-hit",
+      "aliases": [],
+      "categories": []
+    },
+    "Rainbow Parkour Kogama": {
+      "path": "rainbow-parkour-kogama",
+      "aliases": [],
+      "categories": []
+    },
+    "Rally Champion": {
+      "path": "rally-champion",
+      "aliases": [],
+      "categories": []
+    },
+    "Reach The Core": {
+      "path": "reach-the-core",
+      "aliases": [],
+      "categories": []
+    },
+    "Real Flying Truck": {
+      "path": "real-flying-truck",
+      "aliases": [],
+      "categories": []
+    },
+    "Real Garbage Truck": {
+      "path": "real-garbage-truck",
+      "aliases": [],
+      "categories": []
+    },
+    "Recoil": {
+      "path": "recoil",
+      "aliases": [],
+      "categories": []
+    },
+    "Redball": {
+      "path": "redball",
+      "aliases": [],
+      "categories": []
+    },
+    "Red Ball 4": {
+      "path": "red-ball-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Red Driver 5": {
+      "path": "red-driver-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Repuls": {
+      "path": "repuls",
+      "aliases": [],
+      "categories": []
+    },
+    "Resent": {
+      "path": "resent",
+      "aliases": [],
+      "categories": []
+    },
+    "Resentcli": {
+      "path": "ResentCli",
+      "aliases": [],
+      "categories": []
+    },
+    "Restless Wing Syndrome": {
+      "path": "restless-wing-syndrome",
+      "aliases": [],
+      "categories": []
+    },
+    "Retro Bowl": {
+      "path": "retro-bowl",
+      "aliases": [],
+      "categories": []
+    },
+    "Retro Bowl Old": {
+      "path": "retro-bowl-old",
+      "aliases": [],
+      "categories": []
+    },
+    "Riddle School 5": {
+      "path": "riddle-school-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Riddle Transfer 2": {
+      "path": "riddle-transfer-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Rift Shift": {
+      "path": "rift-shift",
+      "aliases": [],
+      "categories": []
+    },
+    "Rise Of Neon Square": {
+      "path": "rise-of-neon-square",
+      "aliases": [],
+      "categories": []
+    },
+    "Roblox": {
+      "path": "roblox",
+      "aliases": [],
+      "categories": []
+    },
+    "Rocket League": {
+      "path": "rocket-league",
+      "aliases": [],
+      "categories": []
+    },
+    "Rocket League 2D": {
+      "path": "rocket-league-2d",
+      "aliases": [],
+      "categories": []
+    },
+    "Rocket Pult": {
+      "path": "rocket-pult",
+      "aliases": [],
+      "categories": []
+    },
+    "Rolling Ball 3D": {
+      "path": "rolling-ball-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Rolly Vortex": {
+      "path": "rolly-vortex",
+      "aliases": [],
+      "categories": []
+    },
+    "Rolly Vortex Ball": {
+      "path": "rolly-vortex-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Rooftop Snipers": {
+      "path": "rooftop-snipers",
+      "aliases": [],
+      "categories": []
+    },
+    "Rooftop Snipers 2": {
+      "path": "rooftopsnipers2",
+      "aliases": [],
+      "categories": []
+    },
+    "Rookie Bowman": {
+      "path": "rookie-bowman",
+      "aliases": [],
+      "categories": []
+    },
+    "Roper": {
+      "path": "roper",
+      "aliases": [],
+      "categories": []
+    },
+    "Royale Dudes": {
+      "path": "royale-dudes",
+      "aliases": [],
+      "categories": []
+    },
+    "Royale Dudes Io": {
+      "path": "royale-dudes-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Rugby Rush": {
+      "path": "rugby-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Run 3": {
+      "path": "run-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Run 3 Beta": {
+      "path": "run-3-beta",
+      "aliases": [],
+      "categories": []
+    },
+    "Run 3 Editor": {
+      "path": "run-3-editor",
+      "aliases": [],
+      "categories": []
+    },
+    "Running Fred": {
+      "path": "running-fred",
+      "aliases": [],
+      "categories": []
+    },
+    "Rusher Crusher": {
+      "path": "rusher-crusher",
+      "aliases": [],
+      "categories": []
+    },
+    "Sabercut": {
+      "path": "sabercut",
+      "aliases": [],
+      "categories": []
+    },
+    "Sandspiel": {
+      "path": "sandspiel",
+      "aliases": [],
+      "categories": []
+    },
+    "Sandstrike Io": {
+      "path": "sandstrike-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Sausage Flip": {
+      "path": "sausage-flip",
+      "aliases": [],
+      "categories": []
+    },
+    "Sausage Flipping": {
+      "path": "sausage-flipping",
+      "aliases": [],
+      "categories": []
+    },
+    "Save The Doge": {
+      "path": "save-the-doge",
+      "aliases": [],
+      "categories": []
+    },
+    "Scenexe Io": {
+      "path": "scenexe-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Scrap Divers": {
+      "path": "scrap-divers",
+      "aliases": [],
+      "categories": []
+    },
+    "Scrap Metal 3 Infernal Trap": {
+      "path": "scrap-metal-3-infernal-trap",
+      "aliases": [],
+      "categories": []
+    },
+    "Scrap Metal Infernal": {
+      "path": "scrap-metal-infernal",
+      "aliases": [],
+      "categories": []
+    },
+    "Scuba Bear": {
+      "path": "scuba-bear",
+      "aliases": [],
+      "categories": []
+    },
+    "Shadow Fight": {
+      "path": "shadow-fight",
+      "aliases": [],
+      "categories": []
+    },
+    "Shady Bears": {
+      "path": "shady-bears",
+      "aliases": [],
+      "categories": []
+    },
+    "Shape Fold Animals": {
+      "path": "shape-fold-animals",
+      "aliases": [],
+      "categories": []
+    },
+    "Shape Fold Html5": {
+      "path": "shape-fold-html5",
+      "aliases": [],
+      "categories": []
+    },
+    "Sharkio": {
+      "path": "sharkio",
+      "aliases": [],
+      "categories": []
+    },
+    "Shell Shockers": {
+      "path": "shellshockers",
+      "aliases": [],
+      "categories": []
+    },
+    "Shellshockers": {
+      "path": "shellshockersio",
+      "aliases": [],
+      "categories": []
+    },
+    "Ships 3D": {
+      "path": "ships-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Shoot Stickman": {
+      "path": "shoot-stickman",
+      "aliases": [],
+      "categories": []
+    },
+    "Shootz": {
+      "path": "shootz",
+      "aliases": [],
+      "categories": []
+    },
+    "Short Ride": {
+      "path": "short-ride",
+      "aliases": [],
+      "categories": []
+    },
+    "Sink It": {
+      "path": "sink-it",
+      "aliases": [],
+      "categories": []
+    },
+    "Skibidi Shooter": {
+      "path": "skibidi-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Skibidi Toilet Attack": {
+      "path": "skibidi-toilet-attack",
+      "aliases": [],
+      "categories": []
+    },
+    "Skibidi Toilet Rampage": {
+      "path": "skibidi-toilet-rampage",
+      "aliases": [],
+      "categories": []
+    },
+    "Skiing Fred": {
+      "path": "skiing-fred",
+      "aliases": [],
+      "categories": []
+    },
+    "Skillfite Io": {
+      "path": "skillfite-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Skribbl": {
+      "path": "skribbl",
+      "aliases": [],
+      "categories": []
+    },
+    "Skyblock": {
+      "path": "skyblock",
+      "aliases": [],
+      "categories": []
+    },
+    "Slice Master": {
+      "path": "slice-master",
+      "aliases": [],
+      "categories": []
+    },
+    "Slime Laboratory": {
+      "path": "slime-laboratory",
+      "aliases": [],
+      "categories": []
+    },
+    "Slime Rancher": {
+      "path": "slime-rancher",
+      "aliases": [],
+      "categories": []
+    },
+    "Slime Road": {
+      "path": "slime-road",
+      "aliases": [],
+      "categories": []
+    },
+    "Slime Rush Td": {
+      "path": "slime-rush-td",
+      "aliases": [],
+      "categories": []
+    },
+    "Sling Kong": {
+      "path": "sling-kong",
+      "aliases": [],
+      "categories": []
+    },
+    "Slither": {
+      "path": "slither",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope": {
+      "path": "slope",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope 2": {
+      "path": "slope2",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope 2 Multiplayer": {
+      "path": "slope-2-multiplayer",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope 2 Players": {
+      "path": "slope-2-players",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope 3": {
+      "path": "slope-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope Ball": {
+      "path": "slope-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope City": {
+      "path": "slope-city",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope Game": {
+      "path": "slope-game",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope Tunnel": {
+      "path": "slope-tunnel",
+      "aliases": [],
+      "categories": []
+    },
+    "Slope Two Players Multiplayer": {
+      "path": "slope-two-players-multiplayer",
+      "aliases": [],
+      "categories": []
+    },
+    "Slopey": {
+      "path": "slopey",
+      "aliases": [],
+      "categories": []
+    },
+    "Slow Roads": {
+      "path": "slow-roads",
+      "aliases": [],
+      "categories": []
+    },
+    "Small World Cup": {
+      "path": "small-world-cup",
+      "aliases": [],
+      "categories": []
+    },
+    "Smart Ball": {
+      "path": "smart-ball",
+      "aliases": [],
+      "categories": []
+    },
+    "Smash Karts": {
+      "path": "smash-karts",
+      "aliases": [],
+      "categories": []
+    },
+    "Smash Karts Io": {
+      "path": "smash-karts-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Smashyroad": {
+      "path": "smashyroad",
+      "aliases": [],
+      "categories": []
+    },
+    "Smashy Roads": {
+      "path": "smashy-roads",
+      "aliases": [],
+      "categories": []
+    },
+    "Smashy Roads 2": {
+      "path": "smashy-roads-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob 5": {
+      "path": "snail-bob-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob 6": {
+      "path": "snail-bob-6",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob 8": {
+      "path": "snail-bob-8",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob Fantasy Story": {
+      "path": "snail-bob-fantasy-story",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob Island Story": {
+      "path": "snail-bob-island-story",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob Love Story": {
+      "path": "snail-bob-love-story",
+      "aliases": [],
+      "categories": []
+    },
+    "Snail Bob Winter Story": {
+      "path": "snail-bob-winter-story",
+      "aliases": [],
+      "categories": []
+    },
+    "Snake Io": {
+      "path": "snake-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Snake Is Mlg Edition": {
+      "path": "snake-is-mlg-edition",
+      "aliases": [],
+      "categories": []
+    },
+    "Snay Io Agario": {
+      "path": "snay-io-agario",
+      "aliases": [],
+      "categories": []
+    },
+    "Sniper Shot": {
+      "path": "sniper-shot",
+      "aliases": [],
+      "categories": []
+    },
+    "Sniper Shot Bullet Time": {
+      "path": "sniper-shot-bullet-time",
+      "aliases": [],
+      "categories": []
+    },
+    "Snipey Io": {
+      "path": "snipey-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Snowbattle": {
+      "path": "snowbattle",
+      "aliases": [],
+      "categories": []
+    },
+    "Snow Battle Io": {
+      "path": "snow-battle-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Snow Rider 3D": {
+      "path": "snow-rider-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Snowrider3D": {
+      "path": "snowrider3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Soccer Heads": {
+      "path": "soccer-heads",
+      "aliases": [],
+      "categories": []
+    },
+    "Soccer Random": {
+      "path": "soccer-random",
+      "aliases": [],
+      "categories": []
+    },
+    "Soccer Skills Champions League": {
+      "path": "soccer-skills-champions-league",
+      "aliases": [],
+      "categories": []
+    },
+    "Soccer Skills Euro": {
+      "path": "soccer-skills-euro",
+      "aliases": [],
+      "categories": []
+    },
+    "Soccer Skills Euro Cup 2021": {
+      "path": "soccer-skills-euro-cup-2021",
+      "aliases": [],
+      "categories": []
+    },
+    "Sonic The Hedgehog Remastered": {
+      "path": "sonic-the-hedgehog-remastered",
+      "aliases": [],
+      "categories": []
+    },
+    "Spacehuggers": {
+      "path": "spacehuggers",
+      "aliases": [],
+      "categories": []
+    },
+    "Space Major Miner": {
+      "path": "space-major-miner",
+      "aliases": [],
+      "categories": []
+    },
+    "Spacewaves": {
+      "path": "spacewaves",
+      "aliases": [],
+      "categories": []
+    },
+    "Spidermanvenomsvengence": {
+      "path": "spidermanvenomsvengence",
+      "aliases": [],
+      "categories": []
+    },
+    "Spider Solitaire": {
+      "path": "spider-solitaire",
+      "aliases": [],
+      "categories": []
+    },
+    "Sprinter": {
+      "path": "sprinter",
+      "aliases": [],
+      "categories": []
+    },
+    "Stabfish 2": {
+      "path": "stabfish-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Stabfish Io": {
+      "path": "stabfish-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Stack Bump 3D": {
+      "path": "stack-bump-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Stair Race 3D": {
+      "path": "stair-race-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Starblast Io": {
+      "path": "starblast-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Station Saturn": {
+      "path": "station-saturn",
+      "aliases": [],
+      "categories": []
+    },
+    "Stealing The Diamond": {
+      "path": "stealing-the-diamond",
+      "aliases": [],
+      "categories": []
+    },
+    "Stick Archers Battle": {
+      "path": "stick-archers-battle",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickbattle Lol": {
+      "path": "stickbattle-lol",
+      "aliases": [],
+      "categories": []
+    },
+    "Stick Defenders": {
+      "path": "stick-defenders",
+      "aliases": [],
+      "categories": []
+    },
+    "Stick Duel Battle": {
+      "path": "stick-duel-battle",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Army The Resistance": {
+      "path": "stickman-army-the-resistance",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Boost": {
+      "path": "stickman-boost",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Boost 2": {
+      "path": "stickman-boost-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Crazy Box": {
+      "path": "stickman-crazy-box",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Fighter Mega Brawl": {
+      "path": "stickman-fighter-mega-brawl",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Fight Ragdoll": {
+      "path": "stickman-fight-ragdoll",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Golf": {
+      "path": "stickman-golf",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Hook": {
+      "path": "stickman-hook",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Ragdoll Crash Fun": {
+      "path": "stickman-ragdoll-crash-fun",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickman Warriors": {
+      "path": "stickman-warriors",
+      "aliases": [],
+      "categories": []
+    },
+    "Stick Merge": {
+      "path": "stick-merge",
+      "aliases": [],
+      "categories": []
+    },
+    "Stickslasher": {
+      "path": "stickslasher",
+      "aliases": [],
+      "categories": []
+    },
+    "Stock Car Hero": {
+      "path": "stock-car-hero",
+      "aliases": [],
+      "categories": []
+    },
+    "Stumbleguys": {
+      "path": "stumbleguys",
+      "aliases": [],
+      "categories": []
+    },
+    "Stuntparadise": {
+      "path": "stuntparadise",
+      "aliases": [],
+      "categories": []
+    },
+    "Stupid Zombies 2": {
+      "path": "stupid-zombies-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Style": {
+      "path": "style",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Princess Runner": {
+      "path": "subway-princess-runner",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Runner": {
+      "path": "subway-runner",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers": {
+      "path": "subway-surfers",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers Bali": {
+      "path": "subway-surfers-bali",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers Hawaii": {
+      "path": "subway-surfers-hawaii",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers New York": {
+      "path": "subway-surfers-new-york",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers Ny": {
+      "path": "subway-surfers-ny",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers San Francisco": {
+      "path": "subway-surfers-san-francisco",
+      "aliases": [],
+      "categories": []
+    },
+    "Subway Surfers Zurich": {
+      "path": "subway-surfers-zurich",
+      "aliases": [],
+      "categories": []
+    },
+    "Sugar Shock Io": {
+      "path": "sugar-shock-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Suika": {
+      "path": "suika",
+      "aliases": [],
+      "categories": []
+    },
+    "Suika Game": {
+      "path": "suika-game",
+      "aliases": [],
+      "categories": []
+    },
+    "Sumo Party": {
+      "path": "sumo-party",
+      "aliases": [],
+      "categories": []
+    },
+    "Superautopets": {
+      "path": "superautopets",
+      "aliases": [],
+      "categories": []
+    },
+    "Superbattle 2": {
+      "path": "superbattle-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Superbike Hero": {
+      "path": "superbike-hero",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Bike The Champion": {
+      "path": "super-bike-the-champion",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Falling Fred": {
+      "path": "super-falling-fred",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Fowlst": {
+      "path": "super-fowlst",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Hexbee Merger": {
+      "path": "super-hexbee-merger",
+      "aliases": [],
+      "categories": []
+    },
+    "Superhot": {
+      "path": "superhot",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Liquid Soccer": {
+      "path": "super-liquid-soccer",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Mario 64": {
+      "path": "super-mario-64",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Mario Bros": {
+      "path": "super-mario-bros",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Mx The Champion": {
+      "path": "super-mx-the-champion",
+      "aliases": [],
+      "categories": []
+    },
+    "Supernova": {
+      "path": "supernova",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Santa Kicker": {
+      "path": "super-santa-kicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Superstarcar": {
+      "path": "superstarcar",
+      "aliases": [],
+      "categories": []
+    },
+    "Super Tunnel Rush": {
+      "path": "super-tunnel-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Surviv Io": {
+      "path": "surviv-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Survivor In Rainbow Monster": {
+      "path": "survivor-in-rainbow-monster",
+      "aliases": [],
+      "categories": []
+    },
+    "Swatforce Vs Terrorists": {
+      "path": "swatforce-vs-terrorists",
+      "aliases": [],
+      "categories": []
+    },
+    "Tabletennis": {
+      "path": "tabletennis",
+      "aliases": [],
+      "categories": []
+    },
+    "Table Tennis Ultimate Tournament": {
+      "path": "table-tennis-ultimate-tournament",
+      "aliases": [],
+      "categories": []
+    },
+    "Tag": {
+      "path": "tag",
+      "aliases": [],
+      "categories": []
+    },
+    "Tag 2": {
+      "path": "tag-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Taming Io": {
+      "path": "taming-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Tank Trouble": {
+      "path": "tank-trouble",
+      "aliases": [],
+      "categories": []
+    },
+    "Tank Trouble 2": {
+      "path": "tank-trouble-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Tanuki Sunset": {
+      "path": "tanuki-sunset",
+      "aliases": [],
+      "categories": []
+    },
+    "Tap Tap Shots": {
+      "path": "tap-tap-shots",
+      "aliases": [],
+      "categories": []
+    },
+    "Temple Run 2": {
+      "path": "temple-run-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Tennis Masters": {
+      "path": "tennis-masters",
+      "aliases": [],
+      "categories": []
+    },
+    "Territorial": {
+      "path": "territorial",
+      "aliases": [],
+      "categories": []
+    },
+    "Tetra Blocks": {
+      "path": "tetra-blocks",
+      "aliases": [],
+      "categories": []
+    },
+    "Tetris": {
+      "path": "tetris",
+      "aliases": [],
+      "categories": []
+    },
+    "Tetris 99": {
+      "path": "tetris-99",
+      "aliases": [],
+      "categories": []
+    },
+    "The Backrooms": {
+      "path": "the-backrooms",
+      "aliases": [],
+      "categories": []
+    },
+    "The Backrooms 3D": {
+      "path": "the-backrooms-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "The Bowling Club": {
+      "path": "the-bowling-club",
+      "aliases": [],
+      "categories": []
+    },
+    "The Final Earth": {
+      "path": "the-final-earth",
+      "aliases": [],
+      "categories": []
+    },
+    "The Final Earth 2": {
+      "path": "the-final-earth-2",
+      "aliases": [],
+      "categories": []
+    },
+    "The Fish Master": {
+      "path": "the-fish-master",
+      "aliases": [],
+      "categories": []
+    },
+    "The Heist": {
+      "path": "the-heist",
+      "aliases": [],
+      "categories": []
+    },
+    "The Impossible Quiz": {
+      "path": "the-impossible-quiz",
+      "aliases": [],
+      "categories": []
+    },
+    "The Impossible Quiz 2": {
+      "path": "the-impossible-quiz-2",
+      "aliases": [],
+      "categories": []
+    },
+    "The Little Giant": {
+      "path": "the-little-giant",
+      "aliases": [],
+      "categories": []
+    },
+    "There Is No Game": {
+      "path": "there-is-no-game",
+      "aliases": [],
+      "categories": []
+    },
+    "The Spear Stickman": {
+      "path": "the-spear-stickman",
+      "aliases": [],
+      "categories": []
+    },
+    "The Treasure": {
+      "path": "the-treasure",
+      "aliases": [],
+      "categories": []
+    },
+    "Thumb Fighter": {
+      "path": "thumb-fighter",
+      "aliases": [],
+      "categories": []
+    },
+    "Tictactoe": {
+      "path": "tictactoe",
+      "aliases": [],
+      "categories": []
+    },
+    "Tic Tac What": {
+      "path": "tic-tac-what",
+      "aliases": [],
+      "categories": []
+    },
+    "Timber Man": {
+      "path": "timber-man",
+      "aliases": [],
+      "categories": []
+    },
+    "Time Shooter": {
+      "path": "time-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Time Shooter 2": {
+      "path": "time-shooter-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Time Shooter 3": {
+      "path": "time-shooter-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Time Shooter 3 Swat": {
+      "path": "time-shooter-3-swat",
+      "aliases": [],
+      "categories": []
+    },
+    "Tiny Fishing": {
+      "path": "tiny-fishing",
+      "aliases": [],
+      "categories": []
+    },
+    "Tinytown Racing": {
+      "path": "tinytown-racing",
+      "aliases": [],
+      "categories": []
+    },
+    "Tomb Of The Mask": {
+      "path": "tomb-of-the-mask",
+      "aliases": [],
+      "categories": []
+    },
+    "Tomb Runner": {
+      "path": "tomb-runner",
+      "aliases": [],
+      "categories": []
+    },
+    "Top Speed Racing 3D": {
+      "path": "top-speed-racing-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Total Recoil": {
+      "path": "total-recoil",
+      "aliases": [],
+      "categories": []
+    },
+    "Totm": {
+      "path": "totm",
+      "aliases": [],
+      "categories": []
+    },
+    "Touchdowners": {
+      "path": "touchdowners",
+      "aliases": [],
+      "categories": []
+    },
+    "Tower Crash 3D": {
+      "path": "tower-crash-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Tower Defense 2D": {
+      "path": "tower-defense-2d",
+      "aliases": [],
+      "categories": []
+    },
+    "Tower Of Destiny": {
+      "path": "tower-of-destiny",
+      "aliases": [],
+      "categories": []
+    },
+    "Trace": {
+      "path": "trace",
+      "aliases": [],
+      "categories": []
+    },
+    "Traffic Control": {
+      "path": "traffic-control",
+      "aliases": [],
+      "categories": []
+    },
+    "Traffic Escape": {
+      "path": "traffic-escape",
+      "aliases": [],
+      "categories": []
+    },
+    "Trafficmania": {
+      "path": "trafficmania",
+      "aliases": [],
+      "categories": []
+    },
+    "Traffic Rider": {
+      "path": "traffic-rider",
+      "aliases": [],
+      "categories": []
+    },
+    "Traffic Run": {
+      "path": "traffic-run",
+      "aliases": [],
+      "categories": []
+    },
+    "Traffic Rush": {
+      "path": "traffic-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Tribals Io": {
+      "path": "tribals-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Tricksplit": {
+      "path": "tricksplit",
+      "aliases": [],
+      "categories": []
+    },
+    "Tricksplit Io": {
+      "path": "tricksplit-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Truck Loader 2": {
+      "path": "truck-loader-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Truck Loader 5": {
+      "path": "truck-loader-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Truck Traffic": {
+      "path": "truck-traffic",
+      "aliases": [],
+      "categories": []
+    },
+    "Tube Clicker": {
+      "path": "tube-clicker",
+      "aliases": [],
+      "categories": []
+    },
+    "Tube Jumpers": {
+      "path": "tube-jumpers",
+      "aliases": [],
+      "categories": []
+    },
+    "Tunnel Rush": {
+      "path": "tunnel-rush",
+      "aliases": [],
+      "categories": []
+    },
+    "Tunnel Rush 2": {
+      "path": "tunnel-rush-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Turn Turn": {
+      "path": "turn-turn",
+      "aliases": [],
+      "categories": []
+    },
+    "Two Ball 3D": {
+      "path": "two-ball-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Two Ball 3D Dark": {
+      "path": "two-ball-3d-dark",
+      "aliases": [],
+      "categories": []
+    },
+    "Two Neon Boxes": {
+      "path": "two-neon-boxes",
+      "aliases": [],
+      "categories": []
+    },
+    "Two Tunnel 3D": {
+      "path": "two-tunnel-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Ultimate Offroad Simulator": {
+      "path": "ultimate-offroad-simulator",
+      "aliases": [],
+      "categories": []
+    },
+    "Uno": {
+      "path": "uno",
+      "aliases": [],
+      "categories": []
+    },
+    "Uno 4 Colors Multiplayer": {
+      "path": "uno-4-colors-multiplayer",
+      "aliases": [],
+      "categories": []
+    },
+    "Venge": {
+      "path": "venge",
+      "aliases": [],
+      "categories": []
+    },
+    "Venge Io": {
+      "path": "venge-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-3": {
+      "path": "vex-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-4": {
+      "path": "vex-4",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-5": {
+      "path": "vex-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-6": {
+      "path": "vex-6",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-7": {
+      "path": "vex-7",
+      "aliases": [],
+      "categories": []
+    },
+    "Vex-8": {
+      "path": "vex-8",
+      "aliases": [],
+      "categories": []
+    },
+    "Village Craft": {
+      "path": "village-craft",
+      "aliases": [],
+      "categories": []
+    },
+    "Volleyball-Challenge": {
+      "path": "volleyball-challenge",
+      "aliases": [],
+      "categories": []
+    },
+    "Volley-Random": {
+      "path": "volley-random",
+      "aliases": [],
+      "categories": []
+    },
+    "Voxiom Io": {
+      "path": "voxiom-io",
+      "aliases": [],
+      "categories": []
+    },
+    "War Of Caribbean Pirates": {
+      "path": "war-of-caribbean-pirates",
+      "aliases": [],
+      "categories": []
+    },
+    "Water Color Sort": {
+      "path": "water-color-sort",
+      "aliases": [],
+      "categories": []
+    },
+    "Watermelon Game": {
+      "path": "watermelon-game",
+      "aliases": [],
+      "categories": []
+    },
+    "Web Osu": {
+      "path": "web-osu",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheelie Bike": {
+      "path": "wheelie-bike",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 2": {
+      "path": "wheely-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 3": {
+      "path": "wheely-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 4 Time Travel": {
+      "path": "wheely-4-time-travel",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 5": {
+      "path": "wheely-5",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 6 Fairytale": {
+      "path": "wheely-6-fairytale",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 7 Detective": {
+      "path": "wheely-7-detective",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheely 8 Aliens": {
+      "path": "wheely-8-aliens",
+      "aliases": [],
+      "categories": []
+    },
+    "Where Is The Water": {
+      "path": "where-is-the-water",
+      "aliases": [],
+      "categories": []
+    },
+    "Wheres My Cat": {
+      "path": "wheres-my-cat",
+      "aliases": [],
+      "categories": []
+    },
+    "Wizard Mike": {
+      "path": "wizard-mike",
+      "aliases": [],
+      "categories": []
+    },
+    "Wood Blocks 3D": {
+      "path": "wood-blocks-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Word City Uncrossed": {
+      "path": "word-city-uncrossed",
+      "aliases": [],
+      "categories": []
+    },
+    "Wordle": {
+      "path": "wordle",
+      "aliases": [],
+      "categories": []
+    },
+    "Wordle Infinite": {
+      "path": "wordle-infinite",
+      "aliases": [],
+      "categories": []
+    },
+    "Wordle Plus": {
+      "path": "wordle-plus",
+      "aliases": [],
+      "categories": []
+    },
+    "Word Slide": {
+      "path": "word-slide",
+      "aliases": [],
+      "categories": []
+    },
+    "Words Search Classic Edition": {
+      "path": "words-search-classic-edition",
+      "aliases": [],
+      "categories": []
+    },
+    "Worldg": {
+      "path": "worldg",
+      "aliases": [],
+      "categories": []
+    },
+    "Worlds Hardest Game": {
+      "path": "worlds-hardest-game",
+      "aliases": [],
+      "categories": []
+    },
+    "Worlds Hardest Game 2": {
+      "path": "worlds-hardest-game-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Worlds Hardest Game 3": {
+      "path": "worlds-hardest-game-3",
+      "aliases": [],
+      "categories": []
+    },
+    "Wormate Io": {
+      "path": "wormate-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Wrestle Bros Io": {
+      "path": "wrestle-bros-io",
+      "aliases": [],
+      "categories": []
+    },
+    "X Trench Run": {
+      "path": "x-trench-run",
+      "aliases": [],
+      "categories": []
+    },
+    "Yarn Untangle": {
+      "path": "yarn-untangle",
+      "aliases": [],
+      "categories": []
+    },
+    "Yohoho": {
+      "path": "yohoho",
+      "aliases": [],
+      "categories": []
+    },
+    "Yohoho Io": {
+      "path": "yohoho-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Zeepkist Crash 2D": {
+      "path": "zeepkist-crash-2d",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombie Killer": {
+      "path": "zombie-killer",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombie Outbreak Arena": {
+      "path": "zombie-outbreak-arena",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombie Shooter 2D": {
+      "path": "zombie-shooter-2d",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombie Siege Outbreak": {
+      "path": "zombie-siege-outbreak",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombocalypse": {
+      "path": "zombocalypse",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombocalypse Shooter": {
+      "path": "zombocalypse-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombotag": {
+      "path": "zombotag",
+      "aliases": [],
+      "categories": []
+    },
+    "Zombsroyale": {
+      "path": "zombsroyale",
+      "aliases": [],
+      "categories": []
+    },
+    "18 Wheeler Cargo Simulator 2": {
+      "path": "18-wheeler-cargo-simulator-2",
+      "aliases": [],
+      "categories": []
+    },
+    "18 Wheeler Driving Sim": {
+      "path": "18-wheeler-driving-sim",
+      "aliases": [],
+      "categories": []
+    },
+    "18 Wheeler Truck Parking 2": {
+      "path": "18-wheeler-truck-parking-2",
+      "aliases": [],
+      "categories": []
+    },
+    "18 Wheeler Truck Parking Ez": {
+      "path": "18-wheeler-truck-parking-ez",
+      "aliases": [],
+      "categories": []
+    },
+    "1v1 Lol": {
+      "path": "1v1-lol",
+      "aliases": [],
+      "categories": []
+    },
+    "Adofai": {
+      "path": "adofai",
+      "aliases": [],
+      "categories": []
+    },
+    "Agarpaper Io": {
+      "path": "agarpaper-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Amazing Rope Vice Spider Vegas": {
+      "path": "amazing-rope-vice-spider-vegas",
+      "aliases": [],
+      "categories": []
+    },
+    "Amazing Strange Rope Police": {
+      "path": "amazing-strange-rope-police",
+      "aliases": [],
+      "categories": []
+    },
+    "Apple Shooter": {
+      "path": "apple-shooter",
+      "aliases": [],
+      "categories": []
+    },
+    "Asmallworldcup": {
+      "path": "asmallworldcup",
+      "aliases": [],
+      "categories": []
+    },
+    "Bloxd Io": {
+      "path": "bloxd-io",
+      "aliases": [],
+      "categories": []
+    },
+    "Bob The Robber 2": {
+      "path": "bob-the-robber-2",
+      "aliases": [],
+      "categories": []
+    },
+    "Booblehead Soccer": {
+      "path": "booblehead-soccer",
+      "aliases": [],
+      "categories": []
+    },
+    "Booblehead Soccer Royale": {
+      "path": "booblehead-soccer-royale",
+      "aliases": [],
+      "categories": []
+    },
+    "Bottle Flip 3d": {
+      "path": "bottle-flip-3d",
+      "aliases": [],
+      "categories": []
+    },
+    "Bouncy Woods": {
+      "path": "bouncy-woods",
+      "aliases": [],
+      "categories": []
+    },
+    "Boxing Phsyics 2": {
+      "path": "boxing-phsyics-2",
+      "aliases": [],
+      "categories": []
     }
+  },
+  "themes": {},
+  "config": {
+    "proxy": true,
+    "proxyPath": "https://monkey.nordparrot.ro"
+  }
 }
